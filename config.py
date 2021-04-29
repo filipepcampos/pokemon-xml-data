@@ -1,0 +1,3 @@
+GENERATION = 1
+LANGUAGE = 'en'
+VERSION = 'yellow'

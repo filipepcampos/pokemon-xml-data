@@ -1,6 +1,6 @@
 import requests
 from dict2xml import dict2xml
-import json
+from config import *
 
 def parseStats(data):
     statsDict = {}
@@ -11,9 +11,8 @@ def parseStats(data):
 
 def parseMoves(data):
     dataDict = {}
-    targetVersion = 'red-blue'
     for moveData in data:
-        correctVersion = [i for i in moveData["version_group_details"] if i["version_group"]["name"] == targetVersion]
+        correctVersion = [i for i in moveData["version_group_details"] if i["version_group"]["name"] == VERSION]
         if(len(correctVersion) == 0):
             continue
         versionGroup = correctVersion[0]

@@ -1,4 +1,4 @@
-import json
+from config import *
 from dict2xml import dict2xml
 import requests
 
@@ -13,9 +13,11 @@ def parseSingleMove(data):
     dataDict["accuracy"] = data["accuracy"]
     dataDict["power"] = data["power"]
     dataDict["pp"] = data["pp"]
-    dataDict["priority"] = data["priority"]
-    dataDict["description"] = data["flavor_text_entries"][0]["flavor_text"]
-    dataDict["name"] = [i["name"] for i in data["names"] if i["language"]["name"] == 'en'][0]
+
+    # TODO: This is stupid, there's no text for versions below gold-silver
+    ver = VERSION if VERSION not in ['red-blue', 'yellow'] else 'gold-silver'
+    dataDict["description"] = [i for i in data["flavor_text_entries"] if i["language"]["name"] == LANGUAGE and i["version_group"]["name"] == ver][0]["flavor_text"]
+    dataDict["name"] = [i["name"] for i in data["names"] if i["language"]["name"] == LANGUAGE][0]
     return moveId, dataDict
 
     

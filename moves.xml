@@ -5,7 +5,6 @@
   <name>Pound</name>
   <power>40</power>
   <pp>35</pp>
-  <priority>0</priority>
 </1>
 <2>
   <accuracy>100</accuracy>
@@ -14,7 +13,6 @@
   <name>Karate Chop</name>
   <power>50</power>
   <pp>25</pp>
-  <priority>0</priority>
 </2>
 <3>
   <accuracy>85</accuracy>
@@ -23,7 +21,6 @@
   <name>Double Slap</name>
   <power>15</power>
   <pp>10</pp>
-  <priority>0</priority>
 </3>
 <4>
   <accuracy>85</accuracy>
@@ -32,7 +29,6 @@
   <name>Comet Punch</name>
   <power>18</power>
   <pp>15</pp>
-  <priority>0</priority>
 </4>
 <5>
   <accuracy>85</accuracy>
@@ -41,7 +37,6 @@
   <name>Mega Punch</name>
   <power>80</power>
   <pp>20</pp>
-  <priority>0</priority>
 </5>
 <6>
   <accuracy>100</accuracy>
@@ -50,7 +45,6 @@
   <name>Pay Day</name>
   <power>40</power>
   <pp>20</pp>
-  <priority>0</priority>
 </6>
 <7>
   <accuracy>100</accuracy>
@@ -59,7 +53,6 @@
   <name>Fire Punch</name>
   <power>75</power>
   <pp>15</pp>
-  <priority>0</priority>
 </7>
 <8>
   <accuracy>100</accuracy>
@@ -68,7 +61,6 @@
   <name>Ice Punch</name>
   <power>75</power>
   <pp>15</pp>
-  <priority>0</priority>
 </8>
 <9>
   <accuracy>100</accuracy>
@@ -77,7 +69,6 @@
   <name>Thunder Punch</name>
   <power>75</power>
   <pp>15</pp>
-  <priority>0</priority>
 </9>
 <10>
   <accuracy>100</accuracy>
@@ -86,7 +77,6 @@
   <name>Scratch</name>
   <power>40</power>
   <pp>35</pp>
-  <priority>0</priority>
 </10>
 <11>
   <accuracy>100</accuracy>
@@ -95,7 +85,6 @@
   <name>Vice Grip</name>
   <power>55</power>
   <pp>30</pp>
-  <priority>0</priority>
 </11>
 <12>
   <accuracy>30</accuracy>
@@ -104,7 +93,6 @@
   <name>Guillotine</name>
   <power>None</power>
   <pp>5</pp>
-  <priority>0</priority>
 </12>
 <13>
   <accuracy>100</accuracy>
@@ -113,16 +101,14 @@
   <name>Razor Wind</name>
   <power>80</power>
   <pp>10</pp>
-  <priority>0</priority>
 </13>
 <14>
   <accuracy>None</accuracy>
-  <description>激烈地跳起战舞提高气势。
-  大幅提高自己的攻击。</description>
+  <description>A dance that in­
+  creases ATTACK.</description>
   <name>Swords Dance</name>
   <power>None</power>
   <pp>20</pp>
-  <priority>0</priority>
 </14>
 <15>
   <accuracy>95</accuracy>
@@ -131,7 +117,6 @@
   <name>Cut</name>
   <power>50</power>
   <pp>30</pp>
-  <priority>0</priority>
 </15>
 <16>
   <accuracy>100</accuracy>
@@ -140,7 +125,6 @@
   <name>Gust</name>
   <power>40</power>
   <pp>35</pp>
-  <priority>0</priority>
 </16>
 <17>
   <accuracy>100</accuracy>
@@ -149,7 +133,6 @@
   <name>Wing Attack</name>
   <power>60</power>
   <pp>35</pp>
-  <priority>0</priority>
 </17>
 <18>
   <accuracy>None</accuracy>
@@ -158,7 +141,6 @@
   <name>Whirlwind</name>
   <power>None</power>
   <pp>20</pp>
-  <priority>-6</priority>
 </18>
 <19>
   <accuracy>95</accuracy>
@@ -167,7 +149,6 @@
   <name>Fly</name>
   <power>90</power>
   <pp>15</pp>
-  <priority>0</priority>
 </19>
 <20>
   <accuracy>85</accuracy>
@@ -176,7 +157,6 @@
   <name>Bind</name>
   <power>15</power>
   <pp>20</pp>
-  <priority>0</priority>
 </20>
 <21>
   <accuracy>75</accuracy>
@@ -185,7 +165,6 @@
   <name>Slam</name>
   <power>80</power>
   <pp>20</pp>
-  <priority>0</priority>
 </21>
 <22>
   <accuracy>100</accuracy>
@@ -194,7 +173,6 @@
   <name>Vine Whip</name>
   <power>45</power>
   <pp>25</pp>
-  <priority>0</priority>
 </22>
 <23>
   <accuracy>100</accuracy>
@@ -203,7 +181,6 @@
   <name>Stomp</name>
   <power>65</power>
   <pp>20</pp>
-  <priority>0</priority>
 </23>
 <24>
   <accuracy>100</accuracy>
@@ -212,16 +189,14 @@
   <name>Double Kick</name>
   <power>30</power>
   <pp>30</pp>
-  <priority>0</priority>
 </24>
 <25>
   <accuracy>75</accuracy>
-  <description>使出力大无穷的重踢
-  踢飞对手进行攻击。</description>
+  <description>A powerful kicking
+  attack.</description>
   <name>Mega Kick</name>
   <power>120</power>
   <pp>5</pp>
-  <priority>0</priority>
 </25>
 <26>
   <accuracy>95</accuracy>
@@ -230,7 +205,6 @@
   <name>Jump Kick</name>
   <power>100</power>
   <pp>10</pp>
-  <priority>0</priority>
 </26>
 <27>
   <accuracy>85</accuracy>
@@ -239,7 +213,6 @@
   <name>Rolling Kick</name>
   <power>60</power>
   <pp>15</pp>
-  <priority>0</priority>
 </27>
 <28>
   <accuracy>100</accuracy>
@@ -248,7 +221,6 @@
   <name>Sand Attack</name>
   <power>None</power>
   <pp>15</pp>
-  <priority>0</priority>
 </28>
 <29>
   <accuracy>100</accuracy>
@@ -257,7 +229,6 @@
   <name>Headbutt</name>
   <power>70</power>
   <pp>15</pp>
-  <priority>0</priority>
 </29>
 <30>
   <accuracy>100</accuracy>
@@ -266,16 +237,14 @@
   <name>Horn Attack</name>
   <power>65</power>
   <pp>25</pp>
-  <priority>0</priority>
 </30>
 <31>
   <accuracy>85</accuracy>
-  <description>Spießt das Ziel zwei- bis fünfmal mit spitzem Horn
-  oder Schnabel auf.</description>
+  <description>Jabs the target
+  2-5 times.</description>
   <name>Fury Attack</name>
   <power>15</power>
   <pp>20</pp>
-  <priority>0</priority>
 </31>
 <32>
   <accuracy>30</accuracy>
@@ -284,7 +253,6 @@
   <name>Horn Drill</name>
   <power>None</power>
   <pp>5</pp>
-  <priority>0</priority>
 </32>
 <33>
   <accuracy>100</accuracy>
@@ -293,7 +261,6 @@
   <name>Tackle</name>
   <power>40</power>
   <pp>35</pp>
-  <priority>0</priority>
 </33>
 <34>
   <accuracy>100</accuracy>
@@ -302,7 +269,6 @@
   <name>Body Slam</name>
   <power>85</power>
   <pp>15</pp>
-  <priority>0</priority>
 </34>
 <35>
   <accuracy>90</accuracy>
@@ -311,7 +277,6 @@
   <name>Wrap</name>
   <power>15</power>
   <pp>20</pp>
-  <priority>0</priority>
 </35>
 <36>
   <accuracy>85</accuracy>
@@ -320,7 +285,6 @@
   <name>Take Down</name>
   <power>90</power>
   <pp>20</pp>
-  <priority>0</priority>
 </36>
 <37>
   <accuracy>100</accuracy>
@@ -329,7 +293,6 @@
   <name>Thrash</name>
   <power>120</power>
   <pp>10</pp>
-  <priority>0</priority>
 </37>
 <38>
   <accuracy>100</accuracy>
@@ -338,7 +301,6 @@
   <name>Double-Edge</name>
   <power>120</power>
   <pp>15</pp>
-  <priority>0</priority>
 </38>
 <39>
   <accuracy>100</accuracy>
@@ -347,7 +309,6 @@
   <name>Tail Whip</name>
   <power>None</power>
   <pp>30</pp>
-  <priority>0</priority>
 </39>
 <40>
   <accuracy>100</accuracy>
@@ -356,7 +317,6 @@
   <name>Poison Sting</name>
   <power>15</power>
   <pp>35</pp>
-  <priority>0</priority>
 </40>
 <41>
   <accuracy>100</accuracy>
@@ -365,7 +325,6 @@
   <name>Twineedle</name>
   <power>25</power>
   <pp>20</pp>
-  <priority>0</priority>
 </41>
 <42>
   <accuracy>95</accuracy>
@@ -374,7 +333,6 @@
   <name>Pin Missile</name>
   <power>25</power>
   <pp>20</pp>
-  <priority>0</priority>
 </42>
 <43>
   <accuracy>100</accuracy>
@@ -383,7 +341,6 @@
   <name>Leer</name>
   <power>None</power>
   <pp>30</pp>
-  <priority>0</priority>
 </43>
 <44>
   <accuracy>100</accuracy>
@@ -392,7 +349,6 @@
   <name>Bite</name>
   <power>60</power>
   <pp>25</pp>
-  <priority>0</priority>
 </44>
 <45>
   <accuracy>100</accuracy>
@@ -401,7 +357,6 @@
   <name>Growl</name>
   <power>None</power>
   <pp>40</pp>
-  <priority>0</priority>
 </45>
 <46>
   <accuracy>None</accuracy>
@@ -410,7 +365,6 @@
   <name>Roar</name>
   <power>None</power>
   <pp>20</pp>
-  <priority>-6</priority>
 </46>
 <47>
   <accuracy>55</accuracy>
@@ -419,7 +373,6 @@
   <name>Sing</name>
   <power>None</power>
   <pp>15</pp>
-  <priority>0</priority>
 </47>
 <48>
   <accuracy>55</accuracy>
@@ -428,7 +381,6 @@
   <name>Supersonic</name>
   <power>None</power>
   <pp>20</pp>
-  <priority>0</priority>
 </48>
 <49>
   <accuracy>90</accuracy>
@@ -437,7 +389,6 @@
   <name>Sonic Boom</name>
   <power>None</power>
   <pp>20</pp>
-  <priority>0</priority>
 </49>
 <50>
   <accuracy>100</accuracy>
@@ -446,7 +397,6 @@
   <name>Disable</name>
   <power>None</power>
   <pp>20</pp>
-  <priority>0</priority>
 </50>
 <51>
   <accuracy>100</accuracy>
@@ -455,7 +405,6 @@
   <name>Acid</name>
   <power>40</power>
   <pp>30</pp>
-  <priority>0</priority>
 </51>
 <52>
   <accuracy>100</accuracy>
@@ -464,7 +413,6 @@
   <name>Ember</name>
   <power>40</power>
   <pp>25</pp>
-  <priority>0</priority>
 </52>
 <53>
   <accuracy>100</accuracy>
@@ -473,7 +421,6 @@
   <name>Flamethrower</name>
   <power>90</power>
   <pp>15</pp>
-  <priority>0</priority>
 </53>
 <54>
   <accuracy>None</accuracy>
@@ -482,7 +429,6 @@
   <name>Mist</name>
   <power>None</power>
   <pp>30</pp>
-  <priority>0</priority>
 </54>
 <55>
   <accuracy>100</accuracy>
@@ -491,7 +437,6 @@
   <name>Water Gun</name>
   <power>40</power>
   <pp>25</pp>
-  <priority>0</priority>
 </55>
 <56>
   <accuracy>80</accuracy>
@@ -500,7 +445,6 @@
   <name>Hydro Pump</name>
   <power>110</power>
   <pp>5</pp>
-  <priority>0</priority>
 </56>
 <57>
   <accuracy>100</accuracy>
@@ -509,17 +453,14 @@
   <name>Surf</name>
   <power>90</power>
   <pp>15</pp>
-  <priority>0</priority>
 </57>
 <58>
   <accuracy>100</accuracy>
-  <description>向对手发射
-  冰冻光束进行攻击。
-  有时会让对手陷入冰冻状态。</description>
+  <description>An attack that may
+  freeze the foe.</description>
   <name>Ice Beam</name>
   <power>90</power>
   <pp>10</pp>
-  <priority>0</priority>
 </58>
 <59>
   <accuracy>70</accuracy>
@@ -528,7 +469,6 @@
   <name>Blizzard</name>
   <power>110</power>
   <pp>5</pp>
-  <priority>0</priority>
 </59>
 <60>
   <accuracy>100</accuracy>
@@ -537,7 +477,6 @@
   <name>Psybeam</name>
   <power>65</power>
   <pp>20</pp>
-  <priority>0</priority>
 </60>
 <61>
   <accuracy>100</accuracy>
@@ -546,7 +485,6 @@
   <name>Bubble Beam</name>
   <power>65</power>
   <pp>20</pp>
-  <priority>0</priority>
 </61>
 <62>
   <accuracy>100</accuracy>
@@ -555,7 +493,6 @@
   <name>Aurora Beam</name>
   <power>65</power>
   <pp>20</pp>
-  <priority>0</priority>
 </62>
 <63>
   <accuracy>90</accuracy>
@@ -564,7 +501,6 @@
   <name>Hyper Beam</name>
   <power>150</power>
   <pp>5</pp>
-  <priority>0</priority>
 </63>
 <64>
   <accuracy>100</accuracy>
@@ -573,7 +509,6 @@
   <name>Peck</name>
   <power>35</power>
   <pp>35</pp>
-  <priority>0</priority>
 </64>
 <65>
   <accuracy>100</accuracy>
@@ -582,7 +517,6 @@
   <name>Drill Peck</name>
   <power>80</power>
   <pp>20</pp>
-  <priority>0</priority>
 </65>
 <66>
   <accuracy>80</accuracy>
@@ -591,7 +525,6 @@
   <name>Submission</name>
   <power>80</power>
   <pp>20</pp>
-  <priority>0</priority>
 </66>
 <67>
   <accuracy>100</accuracy>
@@ -600,7 +533,6 @@
   <name>Low Kick</name>
   <power>None</power>
   <pp>20</pp>
-  <priority>0</priority>
 </67>
 <68>
   <accuracy>100</accuracy>
@@ -609,7 +541,6 @@
   <name>Counter</name>
   <power>None</power>
   <pp>20</pp>
-  <priority>-5</priority>
 </68>
 <69>
   <accuracy>100</accuracy>
@@ -618,7 +549,6 @@
   <name>Seismic Toss</name>
   <power>None</power>
   <pp>20</pp>
-  <priority>0</priority>
 </69>
 <70>
   <accuracy>100</accuracy>
@@ -627,7 +557,6 @@
   <name>Strength</name>
   <power>80</power>
   <pp>15</pp>
-  <priority>0</priority>
 </70>
 <71>
   <accuracy>100</accuracy>
@@ -636,16 +565,14 @@
   <name>Absorb</name>
   <power>20</power>
   <pp>25</pp>
-  <priority>0</priority>
 </71>
 <72>
   <accuracy>100</accuracy>
-  <description>An attack that absorbs
-  half the damage inflicted.</description>
+  <description>Steals 1/2 of the
+  damage inflicted.</description>
   <name>Mega Drain</name>
   <power>40</power>
   <pp>15</pp>
-  <priority>0</priority>
 </72>
 <73>
   <accuracy>90</accuracy>
@@ -654,7 +581,6 @@
   <name>Leech Seed</name>
   <power>None</power>
   <pp>10</pp>
-  <priority>0</priority>
 </73>
 <74>
   <accuracy>None</accuracy>
@@ -663,15 +589,14 @@
   <name>Growth</name>
   <power>None</power>
   <pp>20</pp>
-  <priority>0</priority>
 </74>
 <75>
   <accuracy>95</accuracy>
-  <description>Trifft das Ziel mit Blättern. Hohe Volltrefferquote.</description>
+  <description>Has a high criti­
+  cal hit ratio.</description>
   <name>Razor Leaf</name>
   <power>55</power>
   <pp>25</pp>
-  <priority>0</priority>
 </75>
 <76>
   <accuracy>100</accuracy>
@@ -680,7 +605,6 @@
   <name>Solar Beam</name>
   <power>120</power>
   <pp>10</pp>
-  <priority>0</priority>
 </76>
 <77>
   <accuracy>75</accuracy>
@@ -689,7 +613,6 @@
   <name>Poison Powder</name>
   <power>None</power>
   <pp>35</pp>
-  <priority>0</priority>
 </77>
 <78>
   <accuracy>75</accuracy>
@@ -698,7 +621,6 @@
   <name>Stun Spore</name>
   <power>None</power>
   <pp>30</pp>
-  <priority>0</priority>
 </78>
 <79>
   <accuracy>75</accuracy>
@@ -707,7 +629,6 @@
   <name>Sleep Powder</name>
   <power>None</power>
   <pp>15</pp>
-  <priority>0</priority>
 </79>
 <80>
   <accuracy>100</accuracy>
@@ -716,7 +637,6 @@
   <name>Petal Dance</name>
   <power>120</power>
   <pp>10</pp>
-  <priority>0</priority>
 </80>
 <81>
   <accuracy>95</accuracy>
@@ -725,7 +645,6 @@
   <name>String Shot</name>
   <power>None</power>
   <pp>40</pp>
-  <priority>0</priority>
 </81>
 <82>
   <accuracy>100</accuracy>
@@ -734,16 +653,14 @@
   <name>Dragon Rage</name>
   <power>None</power>
   <pp>10</pp>
-  <priority>0</priority>
 </82>
 <83>
   <accuracy>85</accuracy>
-  <description>Un tourbillon de flammes emprisonne l’ennemi
-  pendant quatre à cinq tours.</description>
+  <description>Traps foe in fire
+  for 2-5 turns.</description>
   <name>Fire Spin</name>
   <power>35</power>
   <pp>15</pp>
-  <priority>0</priority>
 </83>
 <84>
   <accuracy>100</accuracy>
@@ -752,7 +669,6 @@
   <name>Thunder Shock</name>
   <power>40</power>
   <pp>30</pp>
-  <priority>0</priority>
 </84>
 <85>
   <accuracy>100</accuracy>
@@ -761,7 +677,6 @@
   <name>Thunderbolt</name>
   <power>90</power>
   <pp>15</pp>
-  <priority>0</priority>
 </85>
 <86>
   <accuracy>90</accuracy>
@@ -770,7 +685,6 @@
   <name>Thunder Wave</name>
   <power>None</power>
   <pp>20</pp>
-  <priority>0</priority>
 </86>
 <87>
   <accuracy>70</accuracy>
@@ -779,7 +693,6 @@
   <name>Thunder</name>
   <power>110</power>
   <pp>10</pp>
-  <priority>0</priority>
 </87>
 <88>
   <accuracy>90</accuracy>
@@ -788,7 +701,6 @@
   <name>Rock Throw</name>
   <power>50</power>
   <pp>15</pp>
-  <priority>0</priority>
 </88>
 <89>
   <accuracy>100</accuracy>
@@ -797,7 +709,6 @@
   <name>Earthquake</name>
   <power>100</power>
   <pp>10</pp>
-  <priority>0</priority>
 </89>
 <90>
   <accuracy>30</accuracy>
@@ -806,15 +717,14 @@
   <name>Fissure</name>
   <power>None</power>
   <pp>5</pp>
-  <priority>0</priority>
 </90>
 <91>
   <accuracy>100</accuracy>
-  <description>Primer turno: cava. Segundo turno: ataca.</description>
+  <description>1st turn: Burrow
+  2nd turn: Attack</description>
   <name>Dig</name>
   <power>80</power>
   <pp>10</pp>
-  <priority>0</priority>
 </91>
 <92>
   <accuracy>90</accuracy>
@@ -823,7 +733,6 @@
   <name>Toxic</name>
   <power>None</power>
   <pp>10</pp>
-  <priority>0</priority>
 </92>
 <93>
   <accuracy>100</accuracy>
@@ -832,7 +741,6 @@
   <name>Confusion</name>
   <power>50</power>
   <pp>25</pp>
-  <priority>0</priority>
 </93>
 <94>
   <accuracy>100</accuracy>
@@ -841,7 +749,6 @@
   <name>Psychic</name>
   <power>90</power>
   <pp>10</pp>
-  <priority>0</priority>
 </94>
 <95>
   <accuracy>60</accuracy>
@@ -850,7 +757,6 @@
   <name>Hypnosis</name>
   <power>None</power>
   <pp>20</pp>
-  <priority>0</priority>
 </95>
 <96>
   <accuracy>None</accuracy>
@@ -859,7 +765,6 @@
   <name>Meditate</name>
   <power>None</power>
   <pp>40</pp>
-  <priority>0</priority>
 </96>
 <97>
   <accuracy>None</accuracy>
@@ -868,7 +773,6 @@
   <name>Agility</name>
   <power>None</power>
   <pp>30</pp>
-  <priority>0</priority>
 </97>
 <98>
   <accuracy>100</accuracy>
@@ -877,17 +781,14 @@
   <name>Quick Attack</name>
   <power>40</power>
   <pp>30</pp>
-  <priority>1</priority>
 </98>
 <99>
   <accuracy>100</accuracy>
-  <description>기술을 썼을 때 공격을
-  받으면 분노의 힘으로
-  공격이 올라간다.</description>
+  <description>Raises ATTACK if
+  the user is hit.</description>
   <name>Rage</name>
   <power>20</power>
   <pp>20</pp>
-  <priority>0</priority>
 </99>
 <100>
   <accuracy>None</accuracy>
@@ -896,7 +797,6 @@
   <name>Teleport</name>
   <power>None</power>
   <pp>20</pp>
-  <priority>0</priority>
 </100>
 <101>
   <accuracy>100</accuracy>
@@ -905,7 +805,6 @@
   <name>Night Shade</name>
   <power>None</power>
   <pp>15</pp>
-  <priority>0</priority>
 </101>
 <102>
   <accuracy>None</accuracy>
@@ -914,7 +813,6 @@
   <name>Mimic</name>
   <power>None</power>
   <pp>10</pp>
-  <priority>0</priority>
 </102>
 <103>
   <accuracy>85</accuracy>
@@ -923,7 +821,6 @@
   <name>Screech</name>
   <power>None</power>
   <pp>40</pp>
-  <priority>0</priority>
 </103>
 <104>
   <accuracy>None</accuracy>
@@ -932,7 +829,6 @@
   <name>Double Team</name>
   <power>None</power>
   <pp>15</pp>
-  <priority>0</priority>
 </104>
 <105>
   <accuracy>None</accuracy>
@@ -941,7 +837,6 @@
   <name>Recover</name>
   <power>None</power>
   <pp>10</pp>
-  <priority>0</priority>
 </105>
 <106>
   <accuracy>None</accuracy>
@@ -950,7 +845,6 @@
   <name>Harden</name>
   <power>None</power>
   <pp>30</pp>
-  <priority>0</priority>
 </106>
 <107>
   <accuracy>None</accuracy>
@@ -959,7 +853,6 @@
   <name>Minimize</name>
   <power>None</power>
   <pp>10</pp>
-  <priority>0</priority>
 </107>
 <108>
   <accuracy>100</accuracy>
@@ -968,7 +861,6 @@
   <name>Smokescreen</name>
   <power>None</power>
   <pp>20</pp>
-  <priority>0</priority>
 </108>
 <109>
   <accuracy>100</accuracy>
@@ -977,7 +869,6 @@
   <name>Confuse Ray</name>
   <power>None</power>
   <pp>10</pp>
-  <priority>0</priority>
 </109>
 <110>
   <accuracy>None</accuracy>
@@ -986,7 +877,6 @@
   <name>Withdraw</name>
   <power>None</power>
   <pp>40</pp>
-  <priority>0</priority>
 </110>
 <111>
   <accuracy>None</accuracy>
@@ -995,7 +885,6 @@
   <name>Defense Curl</name>
   <power>None</power>
   <pp>40</pp>
-  <priority>0</priority>
 </111>
 <112>
   <accuracy>None</accuracy>
@@ -1004,7 +893,6 @@
   <name>Barrier</name>
   <power>None</power>
   <pp>20</pp>
-  <priority>0</priority>
 </112>
 <113>
   <accuracy>None</accuracy>
@@ -1013,7 +901,6 @@
   <name>Light Screen</name>
   <power>None</power>
   <pp>30</pp>
-  <priority>0</priority>
 </113>
 <114>
   <accuracy>None</accuracy>
@@ -1022,7 +909,6 @@
   <name>Haze</name>
   <power>None</power>
   <pp>30</pp>
-  <priority>0</priority>
 </114>
 <115>
   <accuracy>None</accuracy>
@@ -1031,7 +917,6 @@
   <name>Reflect</name>
   <power>None</power>
   <pp>20</pp>
-  <priority>0</priority>
 </115>
 <116>
   <accuracy>None</accuracy>
@@ -1040,7 +925,6 @@
   <name>Focus Energy</name>
   <power>None</power>
   <pp>30</pp>
-  <priority>0</priority>
 </116>
 <117>
   <accuracy>None</accuracy>
@@ -1049,7 +933,6 @@
   <name>Bide</name>
   <power>None</power>
   <pp>10</pp>
-  <priority>1</priority>
 </117>
 <118>
   <accuracy>None</accuracy>
@@ -1058,7 +941,6 @@
   <name>Metronome</name>
   <power>None</power>
   <pp>10</pp>
-  <priority>0</priority>
 </118>
 <119>
   <accuracy>None</accuracy>
@@ -1067,7 +949,6 @@
   <name>Mirror Move</name>
   <power>None</power>
   <pp>20</pp>
-  <priority>0</priority>
 </119>
 <120>
   <accuracy>100</accuracy>
@@ -1076,16 +957,14 @@
   <name>Self-Destruct</name>
   <power>200</power>
   <pp>5</pp>
-  <priority>0</priority>
 </120>
 <121>
   <accuracy>75</accuracy>
-  <description>Colpisce il bersaglio con un grande uovo
-  scaraventato con enorme forza.</description>
+  <description>Eggs are hurled at
+  the foe.</description>
   <name>Egg Bomb</name>
   <power>100</power>
   <pp>10</pp>
-  <priority>0</priority>
 </121>
 <122>
   <accuracy>100</accuracy>
@@ -1094,7 +973,6 @@
   <name>Lick</name>
   <power>30</power>
   <pp>30</pp>
-  <priority>0</priority>
 </122>
 <123>
   <accuracy>70</accuracy>
@@ -1103,7 +981,6 @@
   <name>Smog</name>
   <power>30</power>
   <pp>20</pp>
-  <priority>0</priority>
 </123>
 <124>
   <accuracy>100</accuracy>
@@ -1112,7 +989,6 @@
   <name>Sludge</name>
   <power>65</power>
   <pp>20</pp>
-  <priority>0</priority>
 </124>
 <125>
   <accuracy>85</accuracy>
@@ -1121,7 +997,6 @@
   <name>Bone Club</name>
   <power>65</power>
   <pp>20</pp>
-  <priority>0</priority>
 </125>
 <126>
   <accuracy>85</accuracy>
@@ -1130,7 +1005,6 @@
   <name>Fire Blast</name>
   <power>110</power>
   <pp>5</pp>
-  <priority>0</priority>
 </126>
 <127>
   <accuracy>100</accuracy>
@@ -1139,7 +1013,6 @@
   <name>Waterfall</name>
   <power>80</power>
   <pp>15</pp>
-  <priority>0</priority>
 </127>
 <128>
   <accuracy>85</accuracy>
@@ -1148,7 +1021,6 @@
   <name>Clamp</name>
   <power>35</power>
   <pp>15</pp>
-  <priority>0</priority>
 </128>
 <129>
   <accuracy>None</accuracy>
@@ -1157,7 +1029,6 @@
   <name>Swift</name>
   <power>60</power>
   <pp>20</pp>
-  <priority>0</priority>
 </129>
 <130>
   <accuracy>100</accuracy>
@@ -1166,7 +1037,6 @@
   <name>Skull Bash</name>
   <power>130</power>
   <pp>10</pp>
-  <priority>0</priority>
 </130>
 <131>
   <accuracy>100</accuracy>
@@ -1175,7 +1045,6 @@
   <name>Spike Cannon</name>
   <power>20</power>
   <pp>15</pp>
-  <priority>0</priority>
 </131>
 <132>
   <accuracy>100</accuracy>
@@ -1184,7 +1053,6 @@
   <name>Constrict</name>
   <power>10</power>
   <pp>35</pp>
-  <priority>0</priority>
 </132>
 <133>
   <accuracy>None</accuracy>
@@ -1193,16 +1061,14 @@
   <name>Amnesia</name>
   <power>None</power>
   <pp>20</pp>
-  <priority>0</priority>
 </133>
 <134>
   <accuracy>80</accuracy>
-  <description>Chi la usa distrae il bersaglio piegando
-  un cucchiaio e ne riduce la precisione.</description>
+  <description>Reduces the foe's
+  accuracy.</description>
   <name>Kinesis</name>
   <power>None</power>
   <pp>15</pp>
-  <priority>0</priority>
 </134>
 <135>
   <accuracy>None</accuracy>
@@ -1211,16 +1077,14 @@
   <name>Soft-Boiled</name>
   <power>None</power>
   <pp>10</pp>
-  <priority>0</priority>
 </135>
 <136>
   <accuracy>90</accuracy>
-  <description>A jumping knee kick. If it
-  misses, the user is hurt.</description>
+  <description>May miss and hurt
+  the user.</description>
   <name>High Jump Kick</name>
   <power>130</power>
   <pp>10</pp>
-  <priority>0</priority>
 </136>
 <137>
   <accuracy>100</accuracy>
@@ -1229,7 +1093,6 @@
   <name>Glare</name>
   <power>None</power>
   <pp>30</pp>
-  <priority>0</priority>
 </137>
 <138>
   <accuracy>100</accuracy>
@@ -1238,16 +1101,14 @@
   <name>Dream Eater</name>
   <power>100</power>
   <pp>15</pp>
-  <priority>0</priority>
 </138>
 <139>
   <accuracy>90</accuracy>
-  <description>Spruzza in faccia ai nemici che ha intorno
-  una nuvola di gas tossico che avvelena.</description>
+  <description>A move that may
+  poison the foe.</description>
   <name>Poison Gas</name>
   <power>None</power>
   <pp>40</pp>
-  <priority>0</priority>
 </139>
 <140>
   <accuracy>85</accuracy>
@@ -1256,7 +1117,6 @@
   <name>Barrage</name>
   <power>15</power>
   <pp>20</pp>
-  <priority>0</priority>
 </140>
 <141>
   <accuracy>100</accuracy>
@@ -1265,7 +1125,6 @@
   <name>Leech Life</name>
   <power>80</power>
   <pp>10</pp>
-  <priority>0</priority>
 </141>
 <142>
   <accuracy>75</accuracy>
@@ -1274,7 +1133,6 @@
   <name>Lovely Kiss</name>
   <power>None</power>
   <pp>10</pp>
-  <priority>0</priority>
 </142>
 <143>
   <accuracy>90</accuracy>
@@ -1283,7 +1141,6 @@
   <name>Sky Attack</name>
   <power>140</power>
   <pp>5</pp>
-  <priority>0</priority>
 </143>
 <144>
   <accuracy>None</accuracy>
@@ -1292,7 +1149,6 @@
   <name>Transform</name>
   <power>None</power>
   <pp>10</pp>
-  <priority>0</priority>
 </144>
 <145>
   <accuracy>100</accuracy>
@@ -1301,7 +1157,6 @@
   <name>Bubble</name>
   <power>40</power>
   <pp>30</pp>
-  <priority>0</priority>
 </145>
 <146>
   <accuracy>100</accuracy>
@@ -1310,7 +1165,6 @@
   <name>Dizzy Punch</name>
   <power>70</power>
   <pp>10</pp>
-  <priority>0</priority>
 </146>
 <147>
   <accuracy>100</accuracy>
@@ -1319,7 +1173,6 @@
   <name>Spore</name>
   <power>None</power>
   <pp>15</pp>
-  <priority>0</priority>
 </147>
 <148>
   <accuracy>100</accuracy>
@@ -1328,7 +1181,6 @@
   <name>Flash</name>
   <power>None</power>
   <pp>20</pp>
-  <priority>0</priority>
 </148>
 <149>
   <accuracy>100</accuracy>
@@ -1337,15 +1189,14 @@
   <name>Psywave</name>
   <power>None</power>
   <pp>15</pp>
-  <priority>0</priority>
 </149>
 <150>
   <accuracy>None</accuracy>
-  <description>Nur ein Platscher, der überhaupt nichts bewirkt.</description>
+  <description>Has no effect
+  whatsoever.</description>
   <name>Splash</name>
   <power>None</power>
   <pp>40</pp>
-  <priority>0</priority>
 </150>
 <151>
   <accuracy>None</accuracy>
@@ -1354,7 +1205,6 @@
   <name>Acid Armor</name>
   <power>None</power>
   <pp>20</pp>
-  <priority>0</priority>
 </151>
 <152>
   <accuracy>90</accuracy>
@@ -1363,7 +1213,6 @@
   <name>Crabhammer</name>
   <power>100</power>
   <pp>10</pp>
-  <priority>0</priority>
 </152>
 <153>
   <accuracy>100</accuracy>
@@ -1372,7 +1221,6 @@
   <name>Explosion</name>
   <power>250</power>
   <pp>5</pp>
-  <priority>0</priority>
 </153>
 <154>
   <accuracy>80</accuracy>
@@ -1381,15 +1229,14 @@
   <name>Fury Swipes</name>
   <power>18</power>
   <pp>15</pp>
-  <priority>0</priority>
 </154>
 <155>
   <accuracy>90</accuracy>
-  <description>Ein Bumerang aus Knochen, der zweimal trifft.</description>
+  <description>An attack that
+  strikes twice.</description>
   <name>Bonemerang</name>
   <power>50</power>
   <pp>10</pp>
-  <priority>0</priority>
 </155>
 <156>
   <accuracy>None</accuracy>
@@ -1398,7 +1245,6 @@
   <name>Rest</name>
   <power>None</power>
   <pp>10</pp>
-  <priority>0</priority>
 </156>
 <157>
   <accuracy>90</accuracy>
@@ -1407,7 +1253,6 @@
   <name>Rock Slide</name>
   <power>75</power>
   <pp>10</pp>
-  <priority>0</priority>
 </157>
 <158>
   <accuracy>90</accuracy>
@@ -1416,7 +1261,6 @@
   <name>Hyper Fang</name>
   <power>80</power>
   <pp>15</pp>
-  <priority>0</priority>
 </158>
 <159>
   <accuracy>None</accuracy>
@@ -1425,7 +1269,6 @@
   <name>Sharpen</name>
   <power>None</power>
   <pp>30</pp>
-  <priority>0</priority>
 </159>
 <160>
   <accuracy>None</accuracy>
@@ -1434,7 +1277,6 @@
   <name>Conversion</name>
   <power>None</power>
   <pp>30</pp>
-  <priority>0</priority>
 </160>
 <161>
   <accuracy>100</accuracy>
@@ -1443,7 +1285,6 @@
   <name>Tri Attack</name>
   <power>80</power>
   <pp>10</pp>
-  <priority>0</priority>
 </161>
 <162>
   <accuracy>90</accuracy>
@@ -1452,7 +1293,6 @@
   <name>Super Fang</name>
   <power>None</power>
   <pp>10</pp>
-  <priority>0</priority>
 </162>
 <163>
   <accuracy>100</accuracy>
@@ -1461,7 +1301,6 @@
   <name>Slash</name>
   <power>70</power>
   <pp>20</pp>
-  <priority>0</priority>
 </163>
 <164>
   <accuracy>None</accuracy>
@@ -1470,7 +1309,6 @@
   <name>Substitute</name>
   <power>None</power>
   <pp>10</pp>
-  <priority>0</priority>
 </164>
 <165>
   <accuracy>None</accuracy>
@@ -1479,5 +1317,4 @@
   <name>Struggle</name>
   <power>50</power>
   <pp>1</pp>
-  <priority>0</priority>
 </165>
