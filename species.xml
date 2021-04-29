@@ -1,0 +1,2892 @@
+<1>
+  <base_exp>64</base_exp>
+  <moves>
+    <1>45</1>
+    <7>73</7>
+    <13>22</13>
+    <20>77</20>
+    <27>75</27>
+    <34>74</34>
+    <41>79</41>
+    <48>76</48>
+  </moves>
+  <name>bulbasaur</name>
+  <stats>
+    <attack>49</attack>
+    <defense>49</defense>
+    <hp>45</hp>
+    <special-attack>65</special-attack>
+    <special-defense>65</special-defense>
+    <speed>45</speed>
+  </stats>
+</1>
+<2>
+  <base_exp>142</base_exp>
+  <moves>
+    <1>73</1>
+    <13>22</13>
+    <22>77</22>
+    <30>75</30>
+    <38>74</38>
+    <46>79</46>
+    <54>76</54>
+  </moves>
+  <name>ivysaur</name>
+  <stats>
+    <attack>62</attack>
+    <defense>63</defense>
+    <hp>60</hp>
+    <special-attack>80</special-attack>
+    <special-defense>80</special-defense>
+    <speed>60</speed>
+  </stats>
+</2>
+<3>
+  <base_exp>236</base_exp>
+  <moves>
+    <1>73</1>
+    <22>77</22>
+    <30>75</30>
+    <43>74</43>
+    <55>79</55>
+    <65>76</65>
+  </moves>
+  <name>venusaur</name>
+  <stats>
+    <attack>82</attack>
+    <defense>83</defense>
+    <hp>80</hp>
+    <special-attack>100</special-attack>
+    <special-defense>100</special-defense>
+    <speed>80</speed>
+  </stats>
+</3>
+<4>
+  <base_exp>62</base_exp>
+  <moves>
+    <1>45</1>
+    <9>52</9>
+    <15>43</15>
+    <22>99</22>
+    <30>163</30>
+    <38>53</38>
+    <46>83</46>
+  </moves>
+  <name>charmander</name>
+  <stats>
+    <attack>52</attack>
+    <defense>43</defense>
+    <hp>39</hp>
+    <special-attack>60</special-attack>
+    <special-defense>50</special-defense>
+    <speed>65</speed>
+  </stats>
+</4>
+<5>
+  <base_exp>142</base_exp>
+  <moves>
+    <1>52</1>
+    <15>43</15>
+    <24>99</24>
+    <33>163</33>
+    <42>53</42>
+    <56>83</56>
+  </moves>
+  <name>charmeleon</name>
+  <stats>
+    <attack>64</attack>
+    <defense>58</defense>
+    <hp>58</hp>
+    <special-attack>80</special-attack>
+    <special-defense>65</special-defense>
+    <speed>80</speed>
+  </stats>
+</5>
+<6>
+  <base_exp>240</base_exp>
+  <moves>
+    <1>52</1>
+    <24>99</24>
+    <36>163</36>
+    <46>53</46>
+    <55>83</55>
+  </moves>
+  <name>charizard</name>
+  <stats>
+    <attack>84</attack>
+    <defense>78</defense>
+    <hp>78</hp>
+    <special-attack>109</special-attack>
+    <special-defense>85</special-defense>
+    <speed>100</speed>
+  </stats>
+</6>
+<7>
+  <base_exp>63</base_exp>
+  <moves>
+    <1>39</1>
+    <8>145</8>
+    <15>55</15>
+    <22>44</22>
+    <28>110</28>
+    <35>130</35>
+    <42>56</42>
+  </moves>
+  <name>squirtle</name>
+  <stats>
+    <attack>48</attack>
+    <defense>65</defense>
+    <hp>44</hp>
+    <special-attack>50</special-attack>
+    <special-defense>64</special-defense>
+    <speed>43</speed>
+  </stats>
+</7>
+<8>
+  <base_exp>142</base_exp>
+  <moves>
+    <1>145</1>
+    <15>55</15>
+    <24>44</24>
+    <31>110</31>
+    <39>130</39>
+    <47>56</47>
+  </moves>
+  <name>wartortle</name>
+  <stats>
+    <attack>63</attack>
+    <defense>80</defense>
+    <hp>59</hp>
+    <special-attack>65</special-attack>
+    <special-defense>80</special-defense>
+    <speed>58</speed>
+  </stats>
+</8>
+<9>
+  <base_exp>239</base_exp>
+  <moves>
+    <1>145</1>
+    <24>44</24>
+    <31>110</31>
+    <42>130</42>
+    <52>56</52>
+  </moves>
+  <name>blastoise</name>
+  <stats>
+    <attack>83</attack>
+    <defense>100</defense>
+    <hp>79</hp>
+    <special-attack>85</special-attack>
+    <special-defense>105</special-defense>
+    <speed>78</speed>
+  </stats>
+</9>
+<10>
+  <base_exp>39</base_exp>
+  <moves>
+    <1>81</1>
+  </moves>
+  <name>caterpie</name>
+  <stats>
+    <attack>30</attack>
+    <defense>35</defense>
+    <hp>45</hp>
+    <special-attack>20</special-attack>
+    <special-defense>20</special-defense>
+    <speed>45</speed>
+  </stats>
+</10>
+<11>
+  <base_exp>72</base_exp>
+  <moves>
+    <1>106</1>
+  </moves>
+  <name>metapod</name>
+  <stats>
+    <attack>20</attack>
+    <defense>55</defense>
+    <hp>50</hp>
+    <special-attack>25</special-attack>
+    <special-defense>25</special-defense>
+    <speed>30</speed>
+  </stats>
+</11>
+<12>
+  <base_exp>178</base_exp>
+  <moves>
+    <1>93</1>
+    <15>77</15>
+    <16>78</16>
+    <17>79</17>
+    <21>48</21>
+    <26>18</26>
+    <32>60</32>
+  </moves>
+  <name>butterfree</name>
+  <stats>
+    <attack>45</attack>
+    <defense>50</defense>
+    <hp>60</hp>
+    <special-attack>90</special-attack>
+    <special-defense>80</special-defense>
+    <speed>70</speed>
+  </stats>
+</12>
+<13>
+  <base_exp>39</base_exp>
+  <moves>
+    <1>81</1>
+  </moves>
+  <name>weedle</name>
+  <stats>
+    <attack>35</attack>
+    <defense>30</defense>
+    <hp>40</hp>
+    <special-attack>20</special-attack>
+    <special-defense>20</special-defense>
+    <speed>50</speed>
+  </stats>
+</13>
+<14>
+  <base_exp>72</base_exp>
+  <moves>
+    <1>106</1>
+  </moves>
+  <name>kakuna</name>
+  <stats>
+    <attack>25</attack>
+    <defense>50</defense>
+    <hp>45</hp>
+    <special-attack>25</special-attack>
+    <special-defense>25</special-defense>
+    <speed>35</speed>
+  </stats>
+</14>
+<15>
+  <base_exp>178</base_exp>
+  <moves>
+    <1>31</1>
+    <16>116</16>
+    <20>41</20>
+    <25>99</25>
+    <30>42</30>
+    <35>97</35>
+  </moves>
+  <name>beedrill</name>
+  <stats>
+    <attack>90</attack>
+    <defense>40</defense>
+    <hp>65</hp>
+    <special-attack>45</special-attack>
+    <special-defense>80</special-defense>
+    <speed>75</speed>
+  </stats>
+</15>
+<16>
+  <base_exp>50</base_exp>
+  <moves>
+    <1>16</1>
+    <5>28</5>
+    <12>98</12>
+    <19>18</19>
+    <28>17</28>
+    <36>97</36>
+    <44>119</44>
+  </moves>
+  <name>pidgey</name>
+  <stats>
+    <attack>45</attack>
+    <defense>40</defense>
+    <hp>40</hp>
+    <special-attack>35</special-attack>
+    <special-defense>35</special-defense>
+    <speed>56</speed>
+  </stats>
+</16>
+<17>
+  <base_exp>122</base_exp>
+  <moves>
+    <1>28</1>
+    <12>98</12>
+    <21>18</21>
+    <31>17</31>
+    <40>97</40>
+    <49>119</49>
+  </moves>
+  <name>pidgeotto</name>
+  <stats>
+    <attack>60</attack>
+    <defense>55</defense>
+    <hp>63</hp>
+    <special-attack>50</special-attack>
+    <special-defense>50</special-defense>
+    <speed>71</speed>
+  </stats>
+</17>
+<18>
+  <base_exp>216</base_exp>
+  <moves>
+    <1>98</1>
+    <21>18</21>
+    <31>17</31>
+    <44>97</44>
+    <54>119</54>
+  </moves>
+  <name>pidgeot</name>
+  <stats>
+    <attack>80</attack>
+    <defense>75</defense>
+    <hp>83</hp>
+    <special-attack>70</special-attack>
+    <special-defense>70</special-defense>
+    <speed>101</speed>
+  </stats>
+</18>
+<19>
+  <base_exp>51</base_exp>
+  <moves>
+    <1>39</1>
+    <7>98</7>
+    <14>158</14>
+    <23>116</23>
+    <34>162</34>
+  </moves>
+  <name>rattata</name>
+  <stats>
+    <attack>56</attack>
+    <defense>35</defense>
+    <hp>30</hp>
+    <special-attack>25</special-attack>
+    <special-defense>35</special-defense>
+    <speed>72</speed>
+  </stats>
+</19>
+<20>
+  <base_exp>145</base_exp>
+  <moves>
+    <1>98</1>
+    <14>158</14>
+    <27>116</27>
+    <41>162</41>
+  </moves>
+  <name>raticate</name>
+  <stats>
+    <attack>81</attack>
+    <defense>60</defense>
+    <hp>55</hp>
+    <special-attack>50</special-attack>
+    <special-defense>70</special-defense>
+    <speed>97</speed>
+  </stats>
+</20>
+<21>
+  <base_exp>52</base_exp>
+  <moves>
+    <1>64</1>
+    <9>43</9>
+    <15>31</15>
+    <22>119</22>
+    <29>65</29>
+    <36>97</36>
+  </moves>
+  <name>spearow</name>
+  <stats>
+    <attack>60</attack>
+    <defense>30</defense>
+    <hp>40</hp>
+    <special-attack>31</special-attack>
+    <special-defense>31</special-defense>
+    <speed>70</speed>
+  </stats>
+</21>
+<22>
+  <base_exp>155</base_exp>
+  <moves>
+    <1>64</1>
+    <15>31</15>
+    <25>119</25>
+    <34>65</34>
+    <43>97</43>
+  </moves>
+  <name>fearow</name>
+  <stats>
+    <attack>90</attack>
+    <defense>65</defense>
+    <hp>65</hp>
+    <special-attack>61</special-attack>
+    <special-defense>61</special-defense>
+    <speed>100</speed>
+  </stats>
+</22>
+<23>
+  <base_exp>58</base_exp>
+  <moves>
+    <1>43</1>
+    <10>40</10>
+    <17>44</17>
+    <24>137</24>
+    <31>103</31>
+    <38>51</38>
+  </moves>
+  <name>ekans</name>
+  <stats>
+    <attack>60</attack>
+    <defense>44</defense>
+    <hp>35</hp>
+    <special-attack>40</special-attack>
+    <special-defense>54</special-defense>
+    <speed>55</speed>
+  </stats>
+</23>
+<24>
+  <base_exp>157</base_exp>
+  <moves>
+    <1>43</1>
+    <17>44</17>
+    <27>137</27>
+    <36>103</36>
+    <47>51</47>
+  </moves>
+  <name>arbok</name>
+  <stats>
+    <attack>95</attack>
+    <defense>69</defense>
+    <hp>60</hp>
+    <special-attack>65</special-attack>
+    <special-defense>79</special-defense>
+    <speed>80</speed>
+  </stats>
+</24>
+<25>
+  <base_exp>112</base_exp>
+  <moves>
+    <1>84</1>
+    <9>86</9>
+    <16>98</16>
+    <26>129</26>
+    <33>97</33>
+    <43>87</43>
+  </moves>
+  <name>pikachu</name>
+  <stats>
+    <attack>55</attack>
+    <defense>40</defense>
+    <hp>35</hp>
+    <special-attack>50</special-attack>
+    <special-defense>50</special-defense>
+    <speed>90</speed>
+  </stats>
+</25>
+<26>
+  <base_exp>218</base_exp>
+  <moves>
+    <1>86</1>
+  </moves>
+  <name>raichu</name>
+  <stats>
+    <attack>90</attack>
+    <defense>55</defense>
+    <hp>60</hp>
+    <special-attack>90</special-attack>
+    <special-defense>80</special-defense>
+    <speed>110</speed>
+  </stats>
+</26>
+<27>
+  <base_exp>60</base_exp>
+  <moves>
+    <1>10</1>
+    <10>28</10>
+    <17>163</17>
+    <24>40</24>
+    <31>129</31>
+    <38>154</38>
+  </moves>
+  <name>sandshrew</name>
+  <stats>
+    <attack>75</attack>
+    <defense>85</defense>
+    <hp>50</hp>
+    <special-attack>20</special-attack>
+    <special-defense>30</special-defense>
+    <speed>40</speed>
+  </stats>
+</27>
+<28>
+  <base_exp>158</base_exp>
+  <moves>
+    <1>28</1>
+    <17>163</17>
+    <27>40</27>
+    <36>129</36>
+    <47>154</47>
+  </moves>
+  <name>sandslash</name>
+  <stats>
+    <attack>100</attack>
+    <defense>110</defense>
+    <hp>75</hp>
+    <special-attack>45</special-attack>
+    <special-defense>55</special-defense>
+    <speed>65</speed>
+  </stats>
+</28>
+<29>
+  <base_exp>55</base_exp>
+  <moves>
+    <1>45</1>
+    <8>10</8>
+    <14>40</14>
+    <21>39</21>
+    <29>44</29>
+    <36>154</36>
+    <43>24</43>
+  </moves>
+  <name>nidoran-f</name>
+  <stats>
+    <attack>47</attack>
+    <defense>52</defense>
+    <hp>55</hp>
+    <special-attack>40</special-attack>
+    <special-defense>40</special-defense>
+    <speed>41</speed>
+  </stats>
+</29>
+<30>
+  <base_exp>128</base_exp>
+  <moves>
+    <1>45</1>
+    <14>40</14>
+    <23>39</23>
+    <32>44</32>
+    <41>154</41>
+    <50>24</50>
+  </moves>
+  <name>nidorina</name>
+  <stats>
+    <attack>62</attack>
+    <defense>67</defense>
+    <hp>70</hp>
+    <special-attack>55</special-attack>
+    <special-defense>55</special-defense>
+    <speed>56</speed>
+  </stats>
+</30>
+<31>
+  <base_exp>227</base_exp>
+  <moves>
+    <1>39</1>
+    <14>40</14>
+  </moves>
+  <name>nidoqueen</name>
+  <stats>
+    <attack>92</attack>
+    <defense>87</defense>
+    <hp>90</hp>
+    <special-attack>75</special-attack>
+    <special-defense>85</special-defense>
+    <speed>76</speed>
+  </stats>
+</31>
+<32>
+  <base_exp>55</base_exp>
+  <moves>
+    <1>43</1>
+    <8>30</8>
+    <14>40</14>
+    <21>116</21>
+    <29>31</29>
+    <36>32</36>
+    <43>24</43>
+  </moves>
+  <name>nidoran-m</name>
+  <stats>
+    <attack>57</attack>
+    <defense>40</defense>
+    <hp>46</hp>
+    <special-attack>40</special-attack>
+    <special-defense>40</special-defense>
+    <speed>50</speed>
+  </stats>
+</32>
+<33>
+  <base_exp>128</base_exp>
+  <moves>
+    <1>43</1>
+    <14>40</14>
+    <23>116</23>
+    <32>31</32>
+    <41>32</41>
+    <50>24</50>
+  </moves>
+  <name>nidorino</name>
+  <stats>
+    <attack>72</attack>
+    <defense>57</defense>
+    <hp>61</hp>
+    <special-attack>55</special-attack>
+    <special-defense>55</special-defense>
+    <speed>65</speed>
+  </stats>
+</33>
+<34>
+  <base_exp>227</base_exp>
+  <moves>
+    <1>40</1>
+  </moves>
+  <name>nidoking</name>
+  <stats>
+    <attack>102</attack>
+    <defense>77</defense>
+    <hp>81</hp>
+    <special-attack>85</special-attack>
+    <special-defense>75</special-defense>
+    <speed>85</speed>
+  </stats>
+</34>
+<35>
+  <base_exp>113</base_exp>
+  <moves>
+    <1>45</1>
+    <13>47</13>
+    <18>3</18>
+    <24>107</24>
+    <31>118</31>
+    <39>111</39>
+    <48>113</48>
+  </moves>
+  <name>clefairy</name>
+  <stats>
+    <attack>45</attack>
+    <defense>48</defense>
+    <hp>70</hp>
+    <special-attack>60</special-attack>
+    <special-defense>65</special-defense>
+    <speed>35</speed>
+  </stats>
+</35>
+<36>
+  <base_exp>217</base_exp>
+  <moves>
+    <1>118</1>
+  </moves>
+  <name>clefable</name>
+  <stats>
+    <attack>70</attack>
+    <defense>73</defense>
+    <hp>95</hp>
+    <special-attack>95</special-attack>
+    <special-defense>90</special-defense>
+    <speed>60</speed>
+  </stats>
+</36>
+<37>
+  <base_exp>60</base_exp>
+  <moves>
+    <1>52</1>
+    <16>98</16>
+    <21>46</21>
+    <28>109</28>
+    <35>53</35>
+    <42>83</42>
+  </moves>
+  <name>vulpix</name>
+  <stats>
+    <attack>41</attack>
+    <defense>40</defense>
+    <hp>38</hp>
+    <special-attack>50</special-attack>
+    <special-defense>65</special-defense>
+    <speed>65</speed>
+  </stats>
+</37>
+<38>
+  <base_exp>177</base_exp>
+  <moves>
+    <1>98</1>
+  </moves>
+  <name>ninetales</name>
+  <stats>
+    <attack>76</attack>
+    <defense>75</defense>
+    <hp>73</hp>
+    <special-attack>81</special-attack>
+    <special-defense>100</special-defense>
+    <speed>100</speed>
+  </stats>
+</38>
+<39>
+  <base_exp>95</base_exp>
+  <moves>
+    <1>47</1>
+    <9>1</9>
+    <14>50</14>
+    <19>111</19>
+    <24>3</24>
+    <29>156</29>
+    <34>34</34>
+    <39>38</39>
+  </moves>
+  <name>jigglypuff</name>
+  <stats>
+    <attack>45</attack>
+    <defense>20</defense>
+    <hp>115</hp>
+    <special-attack>45</special-attack>
+    <special-defense>25</special-defense>
+    <speed>20</speed>
+  </stats>
+</39>
+<40>
+  <base_exp>196</base_exp>
+  <moves>
+    <1>111</1>
+  </moves>
+  <name>wigglytuff</name>
+  <stats>
+    <attack>70</attack>
+    <defense>45</defense>
+    <hp>140</hp>
+    <special-attack>85</special-attack>
+    <special-defense>50</special-defense>
+    <speed>45</speed>
+  </stats>
+</40>
+<41>
+  <base_exp>49</base_exp>
+  <moves>
+    <1>141</1>
+    <10>48</10>
+    <15>44</15>
+    <21>109</21>
+    <28>17</28>
+    <36>114</36>
+  </moves>
+  <name>zubat</name>
+  <stats>
+    <attack>45</attack>
+    <defense>35</defense>
+    <hp>40</hp>
+    <special-attack>30</special-attack>
+    <special-defense>40</special-defense>
+    <speed>55</speed>
+  </stats>
+</41>
+<42>
+  <base_exp>159</base_exp>
+  <moves>
+    <1>141</1>
+    <10>48</10>
+    <21>109</21>
+    <32>17</32>
+    <43>114</43>
+  </moves>
+  <name>golbat</name>
+  <stats>
+    <attack>80</attack>
+    <defense>70</defense>
+    <hp>75</hp>
+    <special-attack>65</special-attack>
+    <special-defense>75</special-defense>
+    <speed>90</speed>
+  </stats>
+</42>
+<43>
+  <base_exp>64</base_exp>
+  <moves>
+    <1>71</1>
+    <15>77</15>
+    <17>78</17>
+    <19>79</19>
+    <24>51</24>
+    <33>80</33>
+    <46>76</46>
+  </moves>
+  <name>oddish</name>
+  <stats>
+    <attack>50</attack>
+    <defense>55</defense>
+    <hp>45</hp>
+    <special-attack>75</special-attack>
+    <special-defense>65</special-defense>
+    <speed>30</speed>
+  </stats>
+</43>
+<44>
+  <base_exp>138</base_exp>
+  <moves>
+    <1>78</1>
+    <19>79</19>
+    <28>51</28>
+    <38>80</38>
+    <52>76</52>
+  </moves>
+  <name>gloom</name>
+  <stats>
+    <attack>65</attack>
+    <defense>70</defense>
+    <hp>60</hp>
+    <special-attack>85</special-attack>
+    <special-defense>75</special-defense>
+    <speed>40</speed>
+  </stats>
+</44>
+<45>
+  <base_exp>221</base_exp>
+  <moves>
+    <1>80</1>
+    <15>77</15>
+  </moves>
+  <name>vileplume</name>
+  <stats>
+    <attack>80</attack>
+    <defense>85</defense>
+    <hp>75</hp>
+    <special-attack>110</special-attack>
+    <special-defense>90</special-defense>
+    <speed>50</speed>
+  </stats>
+</45>
+<46>
+  <base_exp>57</base_exp>
+  <moves>
+    <1>10</1>
+    <13>78</13>
+    <20>141</20>
+    <27>147</27>
+    <34>163</34>
+    <41>74</41>
+  </moves>
+  <name>paras</name>
+  <stats>
+    <attack>70</attack>
+    <defense>55</defense>
+    <hp>35</hp>
+    <special-attack>45</special-attack>
+    <special-defense>55</special-defense>
+    <speed>25</speed>
+  </stats>
+</46>
+<47>
+  <base_exp>142</base_exp>
+  <moves>
+    <1>141</1>
+    <30>147</30>
+    <39>163</39>
+    <48>74</48>
+  </moves>
+  <name>parasect</name>
+  <stats>
+    <attack>95</attack>
+    <defense>80</defense>
+    <hp>60</hp>
+    <special-attack>60</special-attack>
+    <special-defense>80</special-defense>
+    <speed>30</speed>
+  </stats>
+</47>
+<48>
+  <base_exp>61</base_exp>
+  <moves>
+    <1>50</1>
+    <24>77</24>
+    <27>141</27>
+    <30>78</30>
+    <35>60</35>
+    <38>79</38>
+    <43>94</43>
+  </moves>
+  <name>venonat</name>
+  <stats>
+    <attack>55</attack>
+    <defense>50</defense>
+    <hp>60</hp>
+    <special-attack>40</special-attack>
+    <special-defense>55</special-defense>
+    <speed>45</speed>
+  </stats>
+</48>
+<49>
+  <base_exp>158</base_exp>
+  <moves>
+    <1>141</1>
+    <30>78</30>
+    <38>60</38>
+    <43>79</43>
+    <50>94</50>
+  </moves>
+  <name>venomoth</name>
+  <stats>
+    <attack>65</attack>
+    <defense>60</defense>
+    <hp>70</hp>
+    <special-attack>90</special-attack>
+    <special-defense>75</special-defense>
+    <speed>90</speed>
+  </stats>
+</49>
+<50>
+  <base_exp>53</base_exp>
+  <moves>
+    <1>10</1>
+    <15>45</15>
+    <19>91</19>
+    <24>28</24>
+    <31>163</31>
+    <40>89</40>
+  </moves>
+  <name>diglett</name>
+  <stats>
+    <attack>55</attack>
+    <defense>25</defense>
+    <hp>10</hp>
+    <special-attack>35</special-attack>
+    <special-defense>45</special-defense>
+    <speed>95</speed>
+  </stats>
+</50>
+<51>
+  <base_exp>149</base_exp>
+  <moves>
+    <1>91</1>
+    <24>28</24>
+    <35>163</35>
+    <47>89</47>
+  </moves>
+  <name>dugtrio</name>
+  <stats>
+    <attack>100</attack>
+    <defense>50</defense>
+    <hp>35</hp>
+    <special-attack>50</special-attack>
+    <special-defense>70</special-defense>
+    <speed>120</speed>
+  </stats>
+</51>
+<52>
+  <base_exp>58</base_exp>
+  <moves>
+    <1>45</1>
+    <12>44</12>
+    <17>6</17>
+    <24>103</24>
+    <33>154</33>
+    <44>163</44>
+  </moves>
+  <name>meowth</name>
+  <stats>
+    <attack>45</attack>
+    <defense>35</defense>
+    <hp>40</hp>
+    <special-attack>40</special-attack>
+    <special-defense>40</special-defense>
+    <speed>90</speed>
+  </stats>
+</52>
+<53>
+  <base_exp>154</base_exp>
+  <moves>
+    <1>103</1>
+    <17>6</17>
+    <37>154</37>
+    <51>163</51>
+  </moves>
+  <name>persian</name>
+  <stats>
+    <attack>70</attack>
+    <defense>60</defense>
+    <hp>65</hp>
+    <special-attack>65</special-attack>
+    <special-defense>65</special-defense>
+    <speed>115</speed>
+  </stats>
+</53>
+<54>
+  <base_exp>64</base_exp>
+  <moves>
+    <1>10</1>
+    <28>39</28>
+    <31>50</31>
+    <36>93</36>
+    <43>154</43>
+    <52>56</52>
+  </moves>
+  <name>psyduck</name>
+  <stats>
+    <attack>52</attack>
+    <defense>48</defense>
+    <hp>50</hp>
+    <special-attack>65</special-attack>
+    <special-defense>50</special-defense>
+    <speed>55</speed>
+  </stats>
+</54>
+<55>
+  <base_exp>175</base_exp>
+  <moves>
+    <1>50</1>
+    <39>93</39>
+    <48>154</48>
+    <59>56</59>
+  </moves>
+  <name>golduck</name>
+  <stats>
+    <attack>82</attack>
+    <defense>78</defense>
+    <hp>80</hp>
+    <special-attack>95</special-attack>
+    <special-defense>80</special-defense>
+    <speed>85</speed>
+  </stats>
+</55>
+<56>
+  <base_exp>61</base_exp>
+  <moves>
+    <1>43</1>
+    <15>2</15>
+    <21>154</21>
+    <27>116</27>
+    <33>69</33>
+    <39>37</39>
+  </moves>
+  <name>mankey</name>
+  <stats>
+    <attack>80</attack>
+    <defense>35</defense>
+    <hp>40</hp>
+    <special-attack>35</special-attack>
+    <special-defense>45</special-defense>
+    <speed>70</speed>
+  </stats>
+</56>
+<57>
+  <base_exp>159</base_exp>
+  <moves>
+    <1>154</1>
+    <27>116</27>
+    <37>69</37>
+    <46>37</46>
+  </moves>
+  <name>primeape</name>
+  <stats>
+    <attack>105</attack>
+    <defense>60</defense>
+    <hp>65</hp>
+    <special-attack>60</special-attack>
+    <special-defense>70</special-defense>
+    <speed>95</speed>
+  </stats>
+</57>
+<58>
+  <base_exp>70</base_exp>
+  <moves>
+    <1>46</1>
+    <18>52</18>
+    <23>43</23>
+    <30>36</30>
+    <39>97</39>
+    <50>53</50>
+  </moves>
+  <name>growlithe</name>
+  <stats>
+    <attack>70</attack>
+    <defense>45</defense>
+    <hp>55</hp>
+    <special-attack>70</special-attack>
+    <special-defense>50</special-defense>
+    <speed>60</speed>
+  </stats>
+</58>
+<59>
+  <base_exp>194</base_exp>
+  <moves>
+    <1>52</1>
+  </moves>
+  <name>arcanine</name>
+  <stats>
+    <attack>110</attack>
+    <defense>80</defense>
+    <hp>90</hp>
+    <special-attack>100</special-attack>
+    <special-defense>80</special-defense>
+    <speed>95</speed>
+  </stats>
+</59>
+<60>
+  <base_exp>60</base_exp>
+  <moves>
+    <1>145</1>
+    <16>95</16>
+    <19>55</19>
+    <25>3</25>
+    <31>34</31>
+    <38>133</38>
+    <45>56</45>
+  </moves>
+  <name>poliwag</name>
+  <stats>
+    <attack>50</attack>
+    <defense>40</defense>
+    <hp>40</hp>
+    <special-attack>40</special-attack>
+    <special-defense>40</special-defense>
+    <speed>90</speed>
+  </stats>
+</60>
+<61>
+  <base_exp>135</base_exp>
+  <moves>
+    <1>145</1>
+    <26>3</26>
+    <33>34</33>
+    <41>133</41>
+    <49>56</49>
+  </moves>
+  <name>poliwhirl</name>
+  <stats>
+    <attack>65</attack>
+    <defense>65</defense>
+    <hp>65</hp>
+    <special-attack>50</special-attack>
+    <special-defense>50</special-defense>
+    <speed>90</speed>
+  </stats>
+</61>
+<62>
+  <base_exp>230</base_exp>
+  <moves>
+    <1>95</1>
+  </moves>
+  <name>poliwrath</name>
+  <stats>
+    <attack>95</attack>
+    <defense>95</defense>
+    <hp>90</hp>
+    <special-attack>70</special-attack>
+    <special-defense>90</special-defense>
+    <speed>70</speed>
+  </stats>
+</62>
+<63>
+  <base_exp>62</base_exp>
+  <moves>
+    <1>100</1>
+  </moves>
+  <name>abra</name>
+  <stats>
+    <attack>20</attack>
+    <defense>15</defense>
+    <hp>25</hp>
+    <special-attack>105</special-attack>
+    <special-defense>55</special-defense>
+    <speed>90</speed>
+  </stats>
+</63>
+<64>
+  <base_exp>140</base_exp>
+  <moves>
+    <1>100</1>
+    <27>60</27>
+    <31>105</31>
+    <38>94</38>
+    <42>115</42>
+  </moves>
+  <name>kadabra</name>
+  <stats>
+    <attack>35</attack>
+    <defense>30</defense>
+    <hp>40</hp>
+    <special-attack>120</special-attack>
+    <special-defense>70</special-defense>
+    <speed>105</speed>
+  </stats>
+</64>
+<65>
+  <base_exp>225</base_exp>
+  <moves>
+    <1>100</1>
+    <27>60</27>
+    <31>105</31>
+    <38>94</38>
+    <42>115</42>
+  </moves>
+  <name>alakazam</name>
+  <stats>
+    <attack>50</attack>
+    <defense>45</defense>
+    <hp>55</hp>
+    <special-attack>135</special-attack>
+    <special-defense>95</special-defense>
+    <speed>120</speed>
+  </stats>
+</65>
+<66>
+  <base_exp>61</base_exp>
+  <moves>
+    <1>2</1>
+    <20>67</20>
+    <25>43</25>
+    <32>116</32>
+    <39>69</39>
+    <46>66</46>
+  </moves>
+  <name>machop</name>
+  <stats>
+    <attack>80</attack>
+    <defense>50</defense>
+    <hp>70</hp>
+    <special-attack>35</special-attack>
+    <special-defense>35</special-defense>
+    <speed>35</speed>
+  </stats>
+</66>
+<67>
+  <base_exp>142</base_exp>
+  <moves>
+    <1>67</1>
+    <36>116</36>
+    <44>69</44>
+    <52>66</52>
+  </moves>
+  <name>machoke</name>
+  <stats>
+    <attack>100</attack>
+    <defense>70</defense>
+    <hp>80</hp>
+    <special-attack>50</special-attack>
+    <special-defense>60</special-defense>
+    <speed>45</speed>
+  </stats>
+</67>
+<68>
+  <base_exp>227</base_exp>
+  <moves>
+    <1>67</1>
+    <36>116</36>
+    <44>69</44>
+    <52>66</52>
+  </moves>
+  <name>machamp</name>
+  <stats>
+    <attack>130</attack>
+    <defense>80</defense>
+    <hp>90</hp>
+    <special-attack>65</special-attack>
+    <special-defense>85</special-defense>
+    <speed>55</speed>
+  </stats>
+</68>
+<69>
+  <base_exp>60</base_exp>
+  <moves>
+    <1>74</1>
+    <13>35</13>
+    <15>77</15>
+    <18>79</18>
+    <21>78</21>
+    <26>51</26>
+    <33>75</33>
+    <42>21</42>
+  </moves>
+  <name>bellsprout</name>
+  <stats>
+    <attack>75</attack>
+    <defense>35</defense>
+    <hp>50</hp>
+    <special-attack>70</special-attack>
+    <special-defense>30</special-defense>
+    <speed>40</speed>
+  </stats>
+</69>
+<70>
+  <base_exp>137</base_exp>
+  <moves>
+    <1>74</1>
+    <15>77</15>
+    <18>79</18>
+    <23>78</23>
+    <29>51</29>
+    <38>75</38>
+    <49>21</49>
+  </moves>
+  <name>weepinbell</name>
+  <stats>
+    <attack>90</attack>
+    <defense>50</defense>
+    <hp>65</hp>
+    <special-attack>85</special-attack>
+    <special-defense>45</special-defense>
+    <speed>55</speed>
+  </stats>
+</70>
+<71>
+  <base_exp>221</base_exp>
+  <moves>
+    <1>79</1>
+    <13>35</13>
+    <15>77</15>
+  </moves>
+  <name>victreebel</name>
+  <stats>
+    <attack>105</attack>
+    <defense>65</defense>
+    <hp>80</hp>
+    <special-attack>100</special-attack>
+    <special-defense>70</special-defense>
+    <speed>70</speed>
+  </stats>
+</71>
+<72>
+  <base_exp>67</base_exp>
+  <moves>
+    <1>51</1>
+    <7>48</7>
+    <13>35</13>
+    <18>40</18>
+    <22>55</22>
+    <27>132</27>
+    <33>112</33>
+    <40>103</40>
+    <48>56</48>
+  </moves>
+  <name>tentacool</name>
+  <stats>
+    <attack>40</attack>
+    <defense>35</defense>
+    <hp>40</hp>
+    <special-attack>50</special-attack>
+    <special-defense>100</special-defense>
+    <speed>70</speed>
+  </stats>
+</72>
+<73>
+  <base_exp>180</base_exp>
+  <moves>
+    <1>51</1>
+    <18>40</18>
+    <22>55</22>
+    <27>132</27>
+    <35>112</35>
+    <43>103</43>
+    <50>56</50>
+  </moves>
+  <name>tentacruel</name>
+  <stats>
+    <attack>70</attack>
+    <defense>65</defense>
+    <hp>80</hp>
+    <special-attack>80</special-attack>
+    <special-defense>120</special-defense>
+    <speed>100</speed>
+  </stats>
+</73>
+<74>
+  <base_exp>60</base_exp>
+  <moves>
+    <1>33</1>
+    <11>111</11>
+    <16>88</16>
+    <21>120</21>
+    <26>106</26>
+    <31>89</31>
+    <36>153</36>
+  </moves>
+  <name>geodude</name>
+  <stats>
+    <attack>80</attack>
+    <defense>100</defense>
+    <hp>40</hp>
+    <special-attack>30</special-attack>
+    <special-defense>30</special-defense>
+    <speed>20</speed>
+  </stats>
+</74>
+<75>
+  <base_exp>137</base_exp>
+  <moves>
+    <1>111</1>
+    <16>88</16>
+    <21>120</21>
+    <29>106</29>
+    <36>89</36>
+    <43>153</43>
+  </moves>
+  <name>graveler</name>
+  <stats>
+    <attack>95</attack>
+    <defense>115</defense>
+    <hp>55</hp>
+    <special-attack>45</special-attack>
+    <special-defense>45</special-defense>
+    <speed>35</speed>
+  </stats>
+</75>
+<76>
+  <base_exp>223</base_exp>
+  <moves>
+    <1>111</1>
+    <16>88</16>
+    <21>120</21>
+    <29>106</29>
+    <36>89</36>
+    <43>153</43>
+  </moves>
+  <name>golem</name>
+  <stats>
+    <attack>120</attack>
+    <defense>130</defense>
+    <hp>80</hp>
+    <special-attack>55</special-attack>
+    <special-defense>65</special-defense>
+    <speed>45</speed>
+  </stats>
+</76>
+<77>
+  <base_exp>82</base_exp>
+  <moves>
+    <1>52</1>
+    <30>39</30>
+    <32>23</32>
+    <35>45</35>
+    <39>83</39>
+    <43>36</43>
+    <48>97</48>
+  </moves>
+  <name>ponyta</name>
+  <stats>
+    <attack>85</attack>
+    <defense>55</defense>
+    <hp>50</hp>
+    <special-attack>65</special-attack>
+    <special-defense>65</special-defense>
+    <speed>90</speed>
+  </stats>
+</77>
+<78>
+  <base_exp>175</base_exp>
+  <moves>
+    <1>52</1>
+    <39>83</39>
+    <47>36</47>
+    <55>97</55>
+  </moves>
+  <name>rapidash</name>
+  <stats>
+    <attack>100</attack>
+    <defense>70</defense>
+    <hp>65</hp>
+    <special-attack>80</special-attack>
+    <special-defense>80</special-defense>
+    <speed>105</speed>
+  </stats>
+</78>
+<79>
+  <base_exp>63</base_exp>
+  <moves>
+    <1>93</1>
+    <18>50</18>
+    <22>29</22>
+    <27>45</27>
+    <33>55</33>
+    <40>133</40>
+    <48>94</48>
+  </moves>
+  <name>slowpoke</name>
+  <stats>
+    <attack>65</attack>
+    <defense>65</defense>
+    <hp>90</hp>
+    <special-attack>40</special-attack>
+    <special-defense>40</special-defense>
+    <speed>15</speed>
+  </stats>
+</79>
+<80>
+  <base_exp>172</base_exp>
+  <moves>
+    <1>93</1>
+    <27>45</27>
+    <33>55</33>
+    <37>110</37>
+    <44>133</44>
+    <55>94</55>
+  </moves>
+  <name>slowbro</name>
+  <stats>
+    <attack>75</attack>
+    <defense>110</defense>
+    <hp>95</hp>
+    <special-attack>100</special-attack>
+    <special-defense>80</special-defense>
+    <speed>30</speed>
+  </stats>
+</80>
+<81>
+  <base_exp>65</base_exp>
+  <moves>
+    <1>33</1>
+    <21>49</21>
+    <25>84</25>
+    <29>48</29>
+    <35>86</35>
+    <41>129</41>
+    <47>103</47>
+  </moves>
+  <name>magnemite</name>
+  <stats>
+    <attack>35</attack>
+    <defense>70</defense>
+    <hp>25</hp>
+    <special-attack>95</special-attack>
+    <special-defense>55</special-defense>
+    <speed>45</speed>
+  </stats>
+</81>
+<82>
+  <base_exp>163</base_exp>
+  <moves>
+    <1>84</1>
+    <29>48</29>
+    <38>86</38>
+    <46>129</46>
+    <54>103</54>
+  </moves>
+  <name>magneton</name>
+  <stats>
+    <attack>60</attack>
+    <defense>95</defense>
+    <hp>50</hp>
+    <special-attack>120</special-attack>
+    <special-defense>70</special-defense>
+    <speed>70</speed>
+  </stats>
+</82>
+<83>
+  <base_exp>132</base_exp>
+  <moves>
+    <1>64</1>
+    <7>43</7>
+    <15>31</15>
+    <23>14</23>
+    <31>97</31>
+    <39>163</39>
+  </moves>
+  <name>farfetchd</name>
+  <stats>
+    <attack>90</attack>
+    <defense>55</defense>
+    <hp>52</hp>
+    <special-attack>58</special-attack>
+    <special-defense>62</special-defense>
+    <speed>60</speed>
+  </stats>
+</83>
+<84>
+  <base_exp>62</base_exp>
+  <moves>
+    <1>64</1>
+    <20>45</20>
+    <24>31</24>
+    <30>65</30>
+    <36>99</36>
+    <40>161</40>
+    <44>97</44>
+  </moves>
+  <name>doduo</name>
+  <stats>
+    <attack>85</attack>
+    <defense>45</defense>
+    <hp>35</hp>
+    <special-attack>35</special-attack>
+    <special-defense>35</special-defense>
+    <speed>75</speed>
+  </stats>
+</84>
+<85>
+  <base_exp>165</base_exp>
+  <moves>
+    <1>64</1>
+    <30>65</30>
+    <39>99</39>
+    <45>161</45>
+    <51>97</51>
+  </moves>
+  <name>dodrio</name>
+  <stats>
+    <attack>110</attack>
+    <defense>70</defense>
+    <hp>60</hp>
+    <special-attack>60</special-attack>
+    <special-defense>60</special-defense>
+    <speed>110</speed>
+  </stats>
+</85>
+<86>
+  <base_exp>65</base_exp>
+  <moves>
+    <1>29</1>
+    <30>45</30>
+    <35>62</35>
+    <40>156</40>
+    <45>36</45>
+    <50>58</50>
+  </moves>
+  <name>seel</name>
+  <stats>
+    <attack>45</attack>
+    <defense>55</defense>
+    <hp>65</hp>
+    <special-attack>45</special-attack>
+    <special-defense>70</special-defense>
+    <speed>45</speed>
+  </stats>
+</86>
+<87>
+  <base_exp>166</base_exp>
+  <moves>
+    <1>62</1>
+    <44>156</44>
+    <50>36</50>
+    <56>58</56>
+  </moves>
+  <name>dewgong</name>
+  <stats>
+    <attack>70</attack>
+    <defense>80</defense>
+    <hp>90</hp>
+    <special-attack>70</special-attack>
+    <special-defense>95</special-defense>
+    <speed>70</speed>
+  </stats>
+</87>
+<88>
+  <base_exp>65</base_exp>
+  <moves>
+    <1>50</1>
+    <30>139</30>
+    <33>107</33>
+    <37>124</37>
+    <42>106</42>
+    <48>103</48>
+    <55>151</55>
+  </moves>
+  <name>grimer</name>
+  <stats>
+    <attack>80</attack>
+    <defense>50</defense>
+    <hp>80</hp>
+    <special-attack>40</special-attack>
+    <special-defense>50</special-defense>
+    <speed>25</speed>
+  </stats>
+</88>
+<89>
+  <base_exp>175</base_exp>
+  <moves>
+    <1>139</1>
+    <33>107</33>
+    <37>124</37>
+    <45>106</45>
+    <53>103</53>
+    <60>151</60>
+  </moves>
+  <name>muk</name>
+  <stats>
+    <attack>105</attack>
+    <defense>75</defense>
+    <hp>105</hp>
+    <special-attack>65</special-attack>
+    <special-defense>100</special-defense>
+    <speed>50</speed>
+  </stats>
+</89>
+<90>
+  <base_exp>61</base_exp>
+  <moves>
+    <1>110</1>
+    <18>48</18>
+    <23>128</23>
+    <30>62</30>
+    <39>43</39>
+    <50>58</50>
+  </moves>
+  <name>shellder</name>
+  <stats>
+    <attack>65</attack>
+    <defense>100</defense>
+    <hp>30</hp>
+    <special-attack>45</special-attack>
+    <special-defense>25</special-defense>
+    <speed>40</speed>
+  </stats>
+</90>
+<91>
+  <base_exp>184</base_exp>
+  <moves>
+    <1>128</1>
+    <50>131</50>
+  </moves>
+  <name>cloyster</name>
+  <stats>
+    <attack>95</attack>
+    <defense>180</defense>
+    <hp>50</hp>
+    <special-attack>85</special-attack>
+    <special-defense>45</special-defense>
+    <speed>70</speed>
+  </stats>
+</91>
+<92>
+  <base_exp>62</base_exp>
+  <moves>
+    <1>122</1>
+    <27>95</27>
+    <35>138</35>
+  </moves>
+  <name>gastly</name>
+  <stats>
+    <attack>35</attack>
+    <defense>30</defense>
+    <hp>30</hp>
+    <special-attack>100</special-attack>
+    <special-defense>35</special-defense>
+    <speed>80</speed>
+  </stats>
+</92>
+<93>
+  <base_exp>142</base_exp>
+  <moves>
+    <1>122</1>
+    <29>95</29>
+    <38>138</38>
+  </moves>
+  <name>haunter</name>
+  <stats>
+    <attack>50</attack>
+    <defense>45</defense>
+    <hp>45</hp>
+    <special-attack>115</special-attack>
+    <special-defense>55</special-defense>
+    <speed>95</speed>
+  </stats>
+</93>
+<94>
+  <base_exp>225</base_exp>
+  <moves>
+    <1>122</1>
+    <29>95</29>
+    <38>138</38>
+  </moves>
+  <name>gengar</name>
+  <stats>
+    <attack>65</attack>
+    <defense>60</defense>
+    <hp>60</hp>
+    <special-attack>130</special-attack>
+    <special-defense>75</special-defense>
+    <speed>110</speed>
+  </stats>
+</94>
+<95>
+  <base_exp>77</base_exp>
+  <moves>
+    <1>103</1>
+    <15>20</15>
+    <19>88</19>
+    <25>99</25>
+    <33>21</33>
+    <43>106</43>
+  </moves>
+  <name>onix</name>
+  <stats>
+    <attack>45</attack>
+    <defense>160</defense>
+    <hp>35</hp>
+    <special-attack>30</special-attack>
+    <special-defense>45</special-defense>
+    <speed>70</speed>
+  </stats>
+</95>
+<96>
+  <base_exp>66</base_exp>
+  <moves>
+    <1>95</1>
+    <12>50</12>
+    <17>93</17>
+    <24>29</24>
+    <29>139</29>
+    <32>94</32>
+    <37>96</37>
+  </moves>
+  <name>drowzee</name>
+  <stats>
+    <attack>48</attack>
+    <defense>45</defense>
+    <hp>60</hp>
+    <special-attack>43</special-attack>
+    <special-defense>90</special-defense>
+    <speed>42</speed>
+  </stats>
+</96>
+<97>
+  <base_exp>169</base_exp>
+  <moves>
+    <1>95</1>
+    <24>29</24>
+    <33>139</33>
+    <37>94</37>
+    <43>96</43>
+  </moves>
+  <name>hypno</name>
+  <stats>
+    <attack>73</attack>
+    <defense>70</defense>
+    <hp>85</hp>
+    <special-attack>73</special-attack>
+    <special-defense>115</special-defense>
+    <speed>67</speed>
+  </stats>
+</97>
+<98>
+  <base_exp>65</base_exp>
+  <moves>
+    <1>145</1>
+    <20>11</20>
+    <25>12</25>
+    <30>23</30>
+    <35>152</35>
+    <40>106</40>
+  </moves>
+  <name>krabby</name>
+  <stats>
+    <attack>105</attack>
+    <defense>90</defense>
+    <hp>30</hp>
+    <special-attack>25</special-attack>
+    <special-defense>25</special-defense>
+    <speed>50</speed>
+  </stats>
+</98>
+<99>
+  <base_exp>166</base_exp>
+  <moves>
+    <1>145</1>
+    <25>12</25>
+    <34>23</34>
+    <42>152</42>
+    <49>106</49>
+  </moves>
+  <name>kingler</name>
+  <stats>
+    <attack>130</attack>
+    <defense>115</defense>
+    <hp>55</hp>
+    <special-attack>50</special-attack>
+    <special-defense>50</special-defense>
+    <speed>75</speed>
+  </stats>
+</99>
+<100>
+  <base_exp>66</base_exp>
+  <moves>
+    <1>103</1>
+    <17>49</17>
+    <22>120</22>
+    <29>113</29>
+    <36>129</36>
+    <43>153</43>
+  </moves>
+  <name>voltorb</name>
+  <stats>
+    <attack>30</attack>
+    <defense>50</defense>
+    <hp>40</hp>
+    <special-attack>55</special-attack>
+    <special-defense>55</special-defense>
+    <speed>100</speed>
+  </stats>
+</100>
+<101>
+  <base_exp>172</base_exp>
+  <moves>
+    <1>103</1>
+    <22>120</22>
+    <29>113</29>
+    <40>129</40>
+    <50>153</50>
+  </moves>
+  <name>electrode</name>
+  <stats>
+    <attack>50</attack>
+    <defense>70</defense>
+    <hp>60</hp>
+    <special-attack>80</special-attack>
+    <special-defense>80</special-defense>
+    <speed>150</speed>
+  </stats>
+</101>
+<102>
+  <base_exp>65</base_exp>
+  <moves>
+    <1>140</1>
+    <25>115</25>
+    <28>73</28>
+    <32>78</32>
+    <37>77</37>
+    <42>76</42>
+    <48>79</48>
+  </moves>
+  <name>exeggcute</name>
+  <stats>
+    <attack>40</attack>
+    <defense>80</defense>
+    <hp>60</hp>
+    <special-attack>60</special-attack>
+    <special-defense>45</special-defense>
+    <speed>40</speed>
+  </stats>
+</102>
+<103>
+  <base_exp>186</base_exp>
+  <moves>
+    <1>140</1>
+    <28>23</28>
+  </moves>
+  <name>exeggutor</name>
+  <stats>
+    <attack>95</attack>
+    <defense>85</defense>
+    <hp>95</hp>
+    <special-attack>125</special-attack>
+    <special-defense>75</special-defense>
+    <speed>55</speed>
+  </stats>
+</103>
+<104>
+  <base_exp>64</base_exp>
+  <moves>
+    <1>125</1>
+    <25>43</25>
+    <31>116</31>
+    <38>37</38>
+    <43>155</43>
+    <46>99</46>
+  </moves>
+  <name>cubone</name>
+  <stats>
+    <attack>50</attack>
+    <defense>95</defense>
+    <hp>50</hp>
+    <special-attack>40</special-attack>
+    <special-defense>50</special-defense>
+    <speed>35</speed>
+  </stats>
+</104>
+<105>
+  <base_exp>149</base_exp>
+  <moves>
+    <1>125</1>
+    <41>37</41>
+    <48>155</48>
+    <55>99</55>
+  </moves>
+  <name>marowak</name>
+  <stats>
+    <attack>80</attack>
+    <defense>110</defense>
+    <hp>60</hp>
+    <special-attack>50</special-attack>
+    <special-defense>80</special-defense>
+    <speed>45</speed>
+  </stats>
+</105>
+<106>
+  <base_exp>159</base_exp>
+  <moves>
+    <1>96</1>
+    <33>27</33>
+    <38>26</38>
+    <43>116</43>
+    <48>136</48>
+    <53>25</53>
+  </moves>
+  <name>hitmonlee</name>
+  <stats>
+    <attack>120</attack>
+    <defense>53</defense>
+    <hp>50</hp>
+    <special-attack>35</special-attack>
+    <special-defense>110</special-defense>
+    <speed>87</speed>
+  </stats>
+</106>
+<107>
+  <base_exp>159</base_exp>
+  <moves>
+    <1>97</1>
+    <33>7</33>
+    <38>8</38>
+    <43>9</43>
+    <48>5</48>
+    <53>68</53>
+  </moves>
+  <name>hitmonchan</name>
+  <stats>
+    <attack>105</attack>
+    <defense>79</defense>
+    <hp>50</hp>
+    <special-attack>35</special-attack>
+    <special-defense>110</special-defense>
+    <speed>76</speed>
+  </stats>
+</107>
+<108>
+  <base_exp>77</base_exp>
+  <moves>
+    <1>48</1>
+    <7>23</7>
+    <15>50</15>
+    <23>111</23>
+    <31>21</31>
+    <39>103</39>
+  </moves>
+  <name>lickitung</name>
+  <stats>
+    <attack>55</attack>
+    <defense>75</defense>
+    <hp>90</hp>
+    <special-attack>60</special-attack>
+    <special-defense>75</special-defense>
+    <speed>30</speed>
+  </stats>
+</108>
+<109>
+  <base_exp>68</base_exp>
+  <moves>
+    <1>123</1>
+    <32>124</32>
+    <37>108</37>
+    <40>120</40>
+    <45>114</45>
+    <48>153</48>
+  </moves>
+  <name>koffing</name>
+  <stats>
+    <attack>65</attack>
+    <defense>95</defense>
+    <hp>40</hp>
+    <special-attack>60</special-attack>
+    <special-defense>45</special-defense>
+    <speed>35</speed>
+  </stats>
+</109>
+<110>
+  <base_exp>172</base_exp>
+  <moves>
+    <1>124</1>
+    <39>108</39>
+    <43>120</43>
+    <49>114</49>
+    <53>153</53>
+  </moves>
+  <name>weezing</name>
+  <stats>
+    <attack>90</attack>
+    <defense>120</defense>
+    <hp>65</hp>
+    <special-attack>85</special-attack>
+    <special-defense>70</special-defense>
+    <speed>60</speed>
+  </stats>
+</110>
+<111>
+  <base_exp>69</base_exp>
+  <moves>
+    <1>30</1>
+    <30>23</30>
+    <35>39</35>
+    <40>31</40>
+    <45>32</45>
+    <50>43</50>
+    <55>36</55>
+  </moves>
+  <name>rhyhorn</name>
+  <stats>
+    <attack>85</attack>
+    <defense>95</defense>
+    <hp>80</hp>
+    <special-attack>30</special-attack>
+    <special-defense>30</special-defense>
+    <speed>25</speed>
+  </stats>
+</111>
+<112>
+  <base_exp>170</base_exp>
+  <moves>
+    <1>39</1>
+    <48>32</48>
+    <55>43</55>
+    <64>36</64>
+  </moves>
+  <name>rhydon</name>
+  <stats>
+    <attack>130</attack>
+    <defense>120</defense>
+    <hp>105</hp>
+    <special-attack>45</special-attack>
+    <special-defense>45</special-defense>
+    <speed>40</speed>
+  </stats>
+</112>
+<113>
+  <base_exp>395</base_exp>
+  <moves>
+    <1>3</1>
+    <24>47</24>
+    <30>45</30>
+    <38>107</38>
+    <44>111</44>
+    <48>113</48>
+    <54>38</54>
+  </moves>
+  <name>chansey</name>
+  <stats>
+    <attack>5</attack>
+    <defense>5</defense>
+    <hp>250</hp>
+    <special-attack>35</special-attack>
+    <special-defense>105</special-defense>
+    <speed>50</speed>
+  </stats>
+</113>
+<114>
+  <base_exp>87</base_exp>
+  <moves>
+    <1>132</1>
+    <29>71</29>
+    <32>77</32>
+    <36>78</36>
+    <39>79</39>
+    <45>21</45>
+    <49>74</49>
+  </moves>
+  <name>tangela</name>
+  <stats>
+    <attack>55</attack>
+    <defense>115</defense>
+    <hp>65</hp>
+    <special-attack>100</special-attack>
+    <special-defense>40</special-defense>
+    <speed>60</speed>
+  </stats>
+</114>
+<115>
+  <base_exp>172</base_exp>
+  <moves>
+    <1>99</1>
+    <26>44</26>
+    <31>39</31>
+    <36>5</36>
+    <41>43</41>
+    <46>146</46>
+  </moves>
+  <name>kangaskhan</name>
+  <stats>
+    <attack>95</attack>
+    <defense>80</defense>
+    <hp>105</hp>
+    <special-attack>40</special-attack>
+    <special-defense>80</special-defense>
+    <speed>90</speed>
+  </stats>
+</115>
+<116>
+  <base_exp>59</base_exp>
+  <moves>
+    <1>145</1>
+    <19>108</19>
+    <24>43</24>
+    <30>55</30>
+    <37>97</37>
+    <45>56</45>
+  </moves>
+  <name>horsea</name>
+  <stats>
+    <attack>40</attack>
+    <defense>70</defense>
+    <hp>30</hp>
+    <special-attack>70</special-attack>
+    <special-defense>25</special-defense>
+    <speed>60</speed>
+  </stats>
+</116>
+<117>
+  <base_exp>154</base_exp>
+  <moves>
+    <1>145</1>
+    <24>43</24>
+    <30>55</30>
+    <41>97</41>
+    <52>56</52>
+  </moves>
+  <name>seadra</name>
+  <stats>
+    <attack>65</attack>
+    <defense>95</defense>
+    <hp>55</hp>
+    <special-attack>95</special-attack>
+    <special-defense>45</special-defense>
+    <speed>85</speed>
+  </stats>
+</117>
+<118>
+  <base_exp>64</base_exp>
+  <moves>
+    <1>64</1>
+    <19>48</19>
+    <24>30</24>
+    <30>31</30>
+    <37>127</37>
+    <45>32</45>
+    <54>97</54>
+  </moves>
+  <name>goldeen</name>
+  <stats>
+    <attack>67</attack>
+    <defense>60</defense>
+    <hp>45</hp>
+    <special-attack>35</special-attack>
+    <special-defense>50</special-defense>
+    <speed>63</speed>
+  </stats>
+</118>
+<119>
+  <base_exp>158</base_exp>
+  <moves>
+    <1>64</1>
+    <24>30</24>
+    <30>31</30>
+    <39>127</39>
+    <48>32</48>
+    <54>97</54>
+  </moves>
+  <name>seaking</name>
+  <stats>
+    <attack>92</attack>
+    <defense>65</defense>
+    <hp>80</hp>
+    <special-attack>65</special-attack>
+    <special-defense>80</special-defense>
+    <speed>68</speed>
+  </stats>
+</119>
+<120>
+  <base_exp>68</base_exp>
+  <moves>
+    <1>33</1>
+    <17>55</17>
+    <22>106</22>
+    <27>105</27>
+    <32>129</32>
+    <37>107</37>
+    <42>113</42>
+    <47>56</47>
+  </moves>
+  <name>staryu</name>
+  <stats>
+    <attack>45</attack>
+    <defense>55</defense>
+    <hp>30</hp>
+    <special-attack>70</special-attack>
+    <special-defense>55</special-defense>
+    <speed>85</speed>
+  </stats>
+</120>
+<121>
+  <base_exp>182</base_exp>
+  <moves>
+    <1>106</1>
+  </moves>
+  <name>starmie</name>
+  <stats>
+    <attack>75</attack>
+    <defense>85</defense>
+    <hp>60</hp>
+    <special-attack>100</special-attack>
+    <special-defense>85</special-defense>
+    <speed>115</speed>
+  </stats>
+</121>
+<122>
+  <base_exp>161</base_exp>
+  <moves>
+    <1>112</1>
+    <23>113</23>
+    <31>3</31>
+    <39>96</39>
+    <47>164</47>
+  </moves>
+  <name>mr-mime</name>
+  <stats>
+    <attack>45</attack>
+    <defense>65</defense>
+    <hp>40</hp>
+    <special-attack>100</special-attack>
+    <special-defense>120</special-defense>
+    <speed>90</speed>
+  </stats>
+</122>
+<123>
+  <base_exp>100</base_exp>
+  <moves>
+    <1>98</1>
+    <17>43</17>
+    <20>116</20>
+    <24>104</24>
+    <29>163</29>
+    <35>14</35>
+    <42>97</42>
+  </moves>
+  <name>scyther</name>
+  <stats>
+    <attack>110</attack>
+    <defense>80</defense>
+    <hp>70</hp>
+    <special-attack>55</special-attack>
+    <special-defense>80</special-defense>
+    <speed>105</speed>
+  </stats>
+</123>
+<124>
+  <base_exp>159</base_exp>
+  <moves>
+    <1>142</1>
+    <18>122</18>
+    <23>3</23>
+    <31>8</31>
+    <39>34</39>
+    <47>37</47>
+    <58>59</58>
+  </moves>
+  <name>jynx</name>
+  <stats>
+    <attack>50</attack>
+    <defense>35</defense>
+    <hp>65</hp>
+    <special-attack>115</special-attack>
+    <special-defense>95</special-defense>
+    <speed>95</speed>
+  </stats>
+</124>
+<125>
+  <base_exp>172</base_exp>
+  <moves>
+    <1>98</1>
+    <34>84</34>
+    <37>103</37>
+    <42>9</42>
+    <49>113</49>
+    <54>87</54>
+  </moves>
+  <name>electabuzz</name>
+  <stats>
+    <attack>83</attack>
+    <defense>57</defense>
+    <hp>65</hp>
+    <special-attack>95</special-attack>
+    <special-defense>85</special-defense>
+    <speed>105</speed>
+  </stats>
+</125>
+<126>
+  <base_exp>173</base_exp>
+  <moves>
+    <1>52</1>
+    <36>43</36>
+    <39>109</39>
+    <43>7</43>
+    <48>108</48>
+    <52>123</52>
+    <55>53</55>
+  </moves>
+  <name>magmar</name>
+  <stats>
+    <attack>95</attack>
+    <defense>57</defense>
+    <hp>65</hp>
+    <special-attack>100</special-attack>
+    <special-defense>85</special-defense>
+    <speed>93</speed>
+  </stats>
+</126>
+<127>
+  <base_exp>175</base_exp>
+  <moves>
+    <1>11</1>
+    <25>69</25>
+    <30>12</30>
+    <36>116</36>
+    <43>106</43>
+    <49>163</49>
+    <54>14</54>
+  </moves>
+  <name>pinsir</name>
+  <stats>
+    <attack>125</attack>
+    <defense>100</defense>
+    <hp>65</hp>
+    <special-attack>55</special-attack>
+    <special-defense>70</special-defense>
+    <speed>85</speed>
+  </stats>
+</127>
+<128>
+  <base_exp>172</base_exp>
+  <moves>
+    <1>33</1>
+    <21>23</21>
+    <28>39</28>
+    <35>43</35>
+    <44>99</44>
+    <51>36</51>
+  </moves>
+  <name>tauros</name>
+  <stats>
+    <attack>100</attack>
+    <defense>95</defense>
+    <hp>75</hp>
+    <special-attack>40</special-attack>
+    <special-defense>70</special-defense>
+    <speed>110</speed>
+  </stats>
+</128>
+<129>
+  <base_exp>40</base_exp>
+  <moves>
+    <1>150</1>
+    <15>33</15>
+  </moves>
+  <name>magikarp</name>
+  <stats>
+    <attack>10</attack>
+    <defense>55</defense>
+    <hp>20</hp>
+    <special-attack>15</special-attack>
+    <special-defense>20</special-defense>
+    <speed>80</speed>
+  </stats>
+</129>
+<130>
+  <base_exp>189</base_exp>
+  <moves>
+    <1>82</1>
+    <52>63</52>
+  </moves>
+  <name>gyarados</name>
+  <stats>
+    <attack>125</attack>
+    <defense>79</defense>
+    <hp>95</hp>
+    <special-attack>60</special-attack>
+    <special-defense>100</special-defense>
+    <speed>81</speed>
+  </stats>
+</130>
+<131>
+  <base_exp>187</base_exp>
+  <moves>
+    <1>55</1>
+    <16>47</16>
+    <20>54</20>
+    <25>34</25>
+    <31>109</31>
+    <38>58</38>
+    <46>56</46>
+  </moves>
+  <name>lapras</name>
+  <stats>
+    <attack>85</attack>
+    <defense>80</defense>
+    <hp>130</hp>
+    <special-attack>85</special-attack>
+    <special-defense>95</special-defense>
+    <speed>60</speed>
+  </stats>
+</131>
+<132>
+  <base_exp>101</base_exp>
+  <moves>
+    <1>144</1>
+  </moves>
+  <name>ditto</name>
+  <stats>
+    <attack>48</attack>
+    <defense>48</defense>
+    <hp>48</hp>
+    <special-attack>48</special-attack>
+    <special-defense>48</special-defense>
+    <speed>48</speed>
+  </stats>
+</132>
+<133>
+  <base_exp>65</base_exp>
+  <moves>
+    <1>33</1>
+    <27>98</27>
+    <31>39</31>
+    <37>44</37>
+    <45>36</45>
+  </moves>
+  <name>eevee</name>
+  <stats>
+    <attack>55</attack>
+    <defense>50</defense>
+    <hp>55</hp>
+    <special-attack>45</special-attack>
+    <special-defense>65</special-defense>
+    <speed>55</speed>
+  </stats>
+</133>
+<134>
+  <base_exp>184</base_exp>
+  <moves>
+    <1>98</1>
+    <37>39</37>
+    <40>44</40>
+    <42>151</42>
+    <44>114</44>
+    <48>54</48>
+    <54>56</54>
+  </moves>
+  <name>vaporeon</name>
+  <stats>
+    <attack>65</attack>
+    <defense>60</defense>
+    <hp>130</hp>
+    <special-attack>110</special-attack>
+    <special-defense>95</special-defense>
+    <speed>65</speed>
+  </stats>
+</134>
+<135>
+  <base_exp>184</base_exp>
+  <moves>
+    <1>98</1>
+    <37>39</37>
+    <40>86</40>
+    <42>24</42>
+    <44>97</44>
+    <48>42</48>
+    <54>87</54>
+  </moves>
+  <name>jolteon</name>
+  <stats>
+    <attack>65</attack>
+    <defense>60</defense>
+    <hp>65</hp>
+    <special-attack>110</special-attack>
+    <special-defense>95</special-defense>
+    <speed>130</speed>
+  </stats>
+</135>
+<136>
+  <base_exp>184</base_exp>
+  <moves>
+    <1>98</1>
+    <37>39</37>
+    <40>44</40>
+    <42>43</42>
+    <44>83</44>
+    <48>99</48>
+    <54>53</54>
+  </moves>
+  <name>flareon</name>
+  <stats>
+    <attack>130</attack>
+    <defense>60</defense>
+    <hp>65</hp>
+    <special-attack>95</special-attack>
+    <special-defense>110</special-defense>
+    <speed>65</speed>
+  </stats>
+</136>
+<137>
+  <base_exp>79</base_exp>
+  <moves>
+    <1>160</1>
+    <23>60</23>
+    <28>105</28>
+    <35>97</35>
+    <42>161</42>
+  </moves>
+  <name>porygon</name>
+  <stats>
+    <attack>60</attack>
+    <defense>70</defense>
+    <hp>65</hp>
+    <special-attack>85</special-attack>
+    <special-defense>75</special-defense>
+    <speed>40</speed>
+  </stats>
+</137>
+<138>
+  <base_exp>71</base_exp>
+  <moves>
+    <1>110</1>
+    <34>30</34>
+    <39>43</39>
+    <46>131</46>
+    <53>56</53>
+  </moves>
+  <name>omanyte</name>
+  <stats>
+    <attack>40</attack>
+    <defense>100</defense>
+    <hp>35</hp>
+    <special-attack>90</special-attack>
+    <special-defense>55</special-defense>
+    <speed>35</speed>
+  </stats>
+</138>
+<139>
+  <base_exp>173</base_exp>
+  <moves>
+    <1>110</1>
+    <39>43</39>
+    <44>131</44>
+    <49>56</49>
+  </moves>
+  <name>omastar</name>
+  <stats>
+    <attack>60</attack>
+    <defense>125</defense>
+    <hp>70</hp>
+    <special-attack>115</special-attack>
+    <special-defense>70</special-defense>
+    <speed>55</speed>
+  </stats>
+</139>
+<140>
+  <base_exp>71</base_exp>
+  <moves>
+    <1>106</1>
+    <34>71</34>
+    <39>163</39>
+    <44>43</44>
+    <49>56</49>
+  </moves>
+  <name>kabuto</name>
+  <stats>
+    <attack>80</attack>
+    <defense>90</defense>
+    <hp>30</hp>
+    <special-attack>55</special-attack>
+    <special-defense>45</special-defense>
+    <speed>55</speed>
+  </stats>
+</140>
+<141>
+  <base_exp>173</base_exp>
+  <moves>
+    <1>106</1>
+    <39>163</39>
+    <46>43</46>
+    <53>56</53>
+  </moves>
+  <name>kabutops</name>
+  <stats>
+    <attack>115</attack>
+    <defense>105</defense>
+    <hp>60</hp>
+    <special-attack>65</special-attack>
+    <special-defense>70</special-defense>
+    <speed>80</speed>
+  </stats>
+</141>
+<142>
+  <base_exp>180</base_exp>
+  <moves>
+    <1>97</1>
+    <33>48</33>
+    <38>44</38>
+    <45>36</45>
+    <54>63</54>
+  </moves>
+  <name>aerodactyl</name>
+  <stats>
+    <attack>105</attack>
+    <defense>65</defense>
+    <hp>80</hp>
+    <special-attack>60</special-attack>
+    <special-defense>75</special-defense>
+    <speed>130</speed>
+  </stats>
+</142>
+<143>
+  <base_exp>189</base_exp>
+  <moves>
+    <1>156</1>
+    <35>34</35>
+    <41>106</41>
+    <48>38</48>
+    <56>63</56>
+  </moves>
+  <name>snorlax</name>
+  <stats>
+    <attack>110</attack>
+    <defense>65</defense>
+    <hp>160</hp>
+    <special-attack>65</special-attack>
+    <special-defense>110</special-defense>
+    <speed>30</speed>
+  </stats>
+</143>
+<144>
+  <base_exp>261</base_exp>
+  <moves>
+    <1>64</1>
+    <51>59</51>
+    <55>97</55>
+    <60>54</60>
+  </moves>
+  <name>articuno</name>
+  <stats>
+    <attack>85</attack>
+    <defense>100</defense>
+    <hp>90</hp>
+    <special-attack>95</special-attack>
+    <special-defense>125</special-defense>
+    <speed>85</speed>
+  </stats>
+</144>
+<145>
+  <base_exp>261</base_exp>
+  <moves>
+    <1>84</1>
+    <51>87</51>
+    <55>97</55>
+    <60>113</60>
+  </moves>
+  <name>zapdos</name>
+  <stats>
+    <attack>90</attack>
+    <defense>85</defense>
+    <hp>90</hp>
+    <special-attack>125</special-attack>
+    <special-defense>90</special-defense>
+    <speed>100</speed>
+  </stats>
+</145>
+<146>
+  <base_exp>261</base_exp>
+  <moves>
+    <1>83</1>
+    <51>43</51>
+    <55>97</55>
+    <60>143</60>
+  </moves>
+  <name>moltres</name>
+  <stats>
+    <attack>100</attack>
+    <defense>90</defense>
+    <hp>90</hp>
+    <special-attack>125</special-attack>
+    <special-defense>85</special-defense>
+    <speed>90</speed>
+  </stats>
+</146>
+<147>
+  <base_exp>60</base_exp>
+  <moves>
+    <1>43</1>
+    <10>86</10>
+    <20>97</20>
+    <30>21</30>
+    <40>82</40>
+    <50>63</50>
+  </moves>
+  <name>dratini</name>
+  <stats>
+    <attack>64</attack>
+    <defense>45</defense>
+    <hp>41</hp>
+    <special-attack>50</special-attack>
+    <special-defense>50</special-defense>
+    <speed>50</speed>
+  </stats>
+</147>
+<148>
+  <base_exp>147</base_exp>
+  <moves>
+    <1>86</1>
+    <20>97</20>
+    <35>21</35>
+    <45>82</45>
+    <55>63</55>
+  </moves>
+  <name>dragonair</name>
+  <stats>
+    <attack>84</attack>
+    <defense>65</defense>
+    <hp>61</hp>
+    <special-attack>70</special-attack>
+    <special-defense>70</special-defense>
+    <speed>70</speed>
+  </stats>
+</148>
+<149>
+  <base_exp>270</base_exp>
+  <moves>
+    <1>97</1>
+    <35>21</35>
+    <45>82</45>
+    <60>63</60>
+  </moves>
+  <name>dragonite</name>
+  <stats>
+    <attack>134</attack>
+    <defense>95</defense>
+    <hp>91</hp>
+    <special-attack>100</special-attack>
+    <special-defense>100</special-defense>
+    <speed>80</speed>
+  </stats>
+</149>
+<150>
+  <base_exp>306</base_exp>
+  <moves>
+    <1>129</1>
+    <63>112</63>
+    <70>105</70>
+    <75>54</75>
+    <81>133</81>
+  </moves>
+  <name>mewtwo</name>
+  <stats>
+    <attack>110</attack>
+    <defense>90</defense>
+    <hp>106</hp>
+    <special-attack>154</special-attack>
+    <special-defense>90</special-defense>
+    <speed>130</speed>
+  </stats>
+</150>
+<151>
+  <base_exp>270</base_exp>
+  <moves>
+    <1>1</1>
+    <10>144</10>
+    <20>5</20>
+    <30>118</30>
+    <40>94</40>
+  </moves>
+  <name>mew</name>
+  <stats>
+    <attack>100</attack>
+    <defense>100</defense>
+    <hp>100</hp>
+    <special-attack>100</special-attack>
+    <special-defense>100</special-defense>
+    <speed>100</speed>
+  </stats>
+</151>

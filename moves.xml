@@ -1,0 +1,1483 @@
+<1>
+  <accuracy>100</accuracy>
+  <description>Pounds with fore­
+  legs or tail.</description>
+  <name>Pound</name>
+  <power>40</power>
+  <pp>35</pp>
+  <priority>0</priority>
+</1>
+<2>
+  <accuracy>100</accuracy>
+  <description>Has a high criti­
+  cal hit ratio.</description>
+  <name>Karate Chop</name>
+  <power>50</power>
+  <pp>25</pp>
+  <priority>0</priority>
+</2>
+<3>
+  <accuracy>85</accuracy>
+  <description>Repeatedly slaps
+  2-5 times.</description>
+  <name>Double Slap</name>
+  <power>15</power>
+  <pp>10</pp>
+  <priority>0</priority>
+</3>
+<4>
+  <accuracy>85</accuracy>
+  <description>Repeatedly punches
+  2-5 times.</description>
+  <name>Comet Punch</name>
+  <power>18</power>
+  <pp>15</pp>
+  <priority>0</priority>
+</4>
+<5>
+  <accuracy>85</accuracy>
+  <description>A powerful punch
+  thrown very hard.</description>
+  <name>Mega Punch</name>
+  <power>80</power>
+  <pp>20</pp>
+  <priority>0</priority>
+</5>
+<6>
+  <accuracy>100</accuracy>
+  <description>Throws coins. Gets
+  them back later.</description>
+  <name>Pay Day</name>
+  <power>40</power>
+  <pp>20</pp>
+  <priority>0</priority>
+</6>
+<7>
+  <accuracy>100</accuracy>
+  <description>A fiery punch. May
+  cause a burn.</description>
+  <name>Fire Punch</name>
+  <power>75</power>
+  <pp>15</pp>
+  <priority>0</priority>
+</7>
+<8>
+  <accuracy>100</accuracy>
+  <description>An icy punch. May
+  cause freezing.</description>
+  <name>Ice Punch</name>
+  <power>75</power>
+  <pp>15</pp>
+  <priority>0</priority>
+</8>
+<9>
+  <accuracy>100</accuracy>
+  <description>An electric punch.
+  It may paralyze.</description>
+  <name>Thunder Punch</name>
+  <power>75</power>
+  <pp>15</pp>
+  <priority>0</priority>
+</9>
+<10>
+  <accuracy>100</accuracy>
+  <description>Scratches with
+  sharp claws.</description>
+  <name>Scratch</name>
+  <power>40</power>
+  <pp>35</pp>
+  <priority>0</priority>
+</10>
+<11>
+  <accuracy>100</accuracy>
+  <description>Grips with power­
+  ful pincers.</description>
+  <name>Vice Grip</name>
+  <power>55</power>
+  <pp>30</pp>
+  <priority>0</priority>
+</11>
+<12>
+  <accuracy>30</accuracy>
+  <description>A one-hit KO,
+  pincer attack.</description>
+  <name>Guillotine</name>
+  <power>None</power>
+  <pp>5</pp>
+  <priority>0</priority>
+</12>
+<13>
+  <accuracy>100</accuracy>
+  <description>1st turn: Prepare
+  2nd turn: Attack</description>
+  <name>Razor Wind</name>
+  <power>80</power>
+  <pp>10</pp>
+  <priority>0</priority>
+</13>
+<14>
+  <accuracy>None</accuracy>
+  <description>激烈地跳起战舞提高气势。
+  大幅提高自己的攻击。</description>
+  <name>Swords Dance</name>
+  <power>None</power>
+  <pp>20</pp>
+  <priority>0</priority>
+</14>
+<15>
+  <accuracy>95</accuracy>
+  <description>Cuts using claws,
+  scythes, etc.</description>
+  <name>Cut</name>
+  <power>50</power>
+  <pp>30</pp>
+  <priority>0</priority>
+</15>
+<16>
+  <accuracy>100</accuracy>
+  <description>Whips up a strong
+  gust of wind.</description>
+  <name>Gust</name>
+  <power>40</power>
+  <pp>35</pp>
+  <priority>0</priority>
+</16>
+<17>
+  <accuracy>100</accuracy>
+  <description>Strikes the target
+  with wings.</description>
+  <name>Wing Attack</name>
+  <power>60</power>
+  <pp>35</pp>
+  <priority>0</priority>
+</17>
+<18>
+  <accuracy>None</accuracy>
+  <description>Blows away the foe
+  &amp; ends battle.</description>
+  <name>Whirlwind</name>
+  <power>None</power>
+  <pp>20</pp>
+  <priority>-6</priority>
+</18>
+<19>
+  <accuracy>95</accuracy>
+  <description>1st turn: Fly
+  2nd turn: Attack</description>
+  <name>Fly</name>
+  <power>90</power>
+  <pp>15</pp>
+  <priority>0</priority>
+</19>
+<20>
+  <accuracy>85</accuracy>
+  <description>Binds the target
+  for 2-5 turns.</description>
+  <name>Bind</name>
+  <power>15</power>
+  <pp>20</pp>
+  <priority>0</priority>
+</20>
+<21>
+  <accuracy>75</accuracy>
+  <description>Slams the foe with
+  a tail, vine, etc.</description>
+  <name>Slam</name>
+  <power>80</power>
+  <pp>20</pp>
+  <priority>0</priority>
+</21>
+<22>
+  <accuracy>100</accuracy>
+  <description>Whips the foe with
+  slender vines.</description>
+  <name>Vine Whip</name>
+  <power>45</power>
+  <pp>25</pp>
+  <priority>0</priority>
+</22>
+<23>
+  <accuracy>100</accuracy>
+  <description>An attack that may
+  cause flinching.</description>
+  <name>Stomp</name>
+  <power>65</power>
+  <pp>20</pp>
+  <priority>0</priority>
+</23>
+<24>
+  <accuracy>100</accuracy>
+  <description>A double kicking
+  attack.</description>
+  <name>Double Kick</name>
+  <power>30</power>
+  <pp>30</pp>
+  <priority>0</priority>
+</24>
+<25>
+  <accuracy>75</accuracy>
+  <description>使出力大无穷的重踢
+  踢飞对手进行攻击。</description>
+  <name>Mega Kick</name>
+  <power>120</power>
+  <pp>5</pp>
+  <priority>0</priority>
+</25>
+<26>
+  <accuracy>95</accuracy>
+  <description>May miss, damaging
+  the user.</description>
+  <name>Jump Kick</name>
+  <power>100</power>
+  <pp>10</pp>
+  <priority>0</priority>
+</26>
+<27>
+  <accuracy>85</accuracy>
+  <description>A fast, spinning
+  kick.</description>
+  <name>Rolling Kick</name>
+  <power>60</power>
+  <pp>15</pp>
+  <priority>0</priority>
+</27>
+<28>
+  <accuracy>100</accuracy>
+  <description>Reduces accuracy
+  by throwing sand.</description>
+  <name>Sand Attack</name>
+  <power>None</power>
+  <pp>15</pp>
+  <priority>0</priority>
+</28>
+<29>
+  <accuracy>100</accuracy>
+  <description>An attack that may
+  make foe flinch.</description>
+  <name>Headbutt</name>
+  <power>70</power>
+  <pp>15</pp>
+  <priority>0</priority>
+</29>
+<30>
+  <accuracy>100</accuracy>
+  <description>An attack using a
+  horn to jab.</description>
+  <name>Horn Attack</name>
+  <power>65</power>
+  <pp>25</pp>
+  <priority>0</priority>
+</30>
+<31>
+  <accuracy>85</accuracy>
+  <description>Spießt das Ziel zwei- bis fünfmal mit spitzem Horn
+  oder Schnabel auf.</description>
+  <name>Fury Attack</name>
+  <power>15</power>
+  <pp>20</pp>
+  <priority>0</priority>
+</31>
+<32>
+  <accuracy>30</accuracy>
+  <description>A one-hit KO,
+  drill attack.</description>
+  <name>Horn Drill</name>
+  <power>None</power>
+  <pp>5</pp>
+  <priority>0</priority>
+</32>
+<33>
+  <accuracy>100</accuracy>
+  <description>A full-body charge
+  attack.</description>
+  <name>Tackle</name>
+  <power>40</power>
+  <pp>35</pp>
+  <priority>0</priority>
+</33>
+<34>
+  <accuracy>100</accuracy>
+  <description>An attack that may
+  cause paralysis.</description>
+  <name>Body Slam</name>
+  <power>85</power>
+  <pp>15</pp>
+  <priority>0</priority>
+</34>
+<35>
+  <accuracy>90</accuracy>
+  <description>Squeezes the foe
+  for 2-5 turns.</description>
+  <name>Wrap</name>
+  <power>15</power>
+  <pp>20</pp>
+  <priority>0</priority>
+</35>
+<36>
+  <accuracy>85</accuracy>
+  <description>A tackle that also
+  hurts the user.</description>
+  <name>Take Down</name>
+  <power>90</power>
+  <pp>20</pp>
+  <priority>0</priority>
+</36>
+<37>
+  <accuracy>100</accuracy>
+  <description>Works 2-3 turns
+  and confuses user.</description>
+  <name>Thrash</name>
+  <power>120</power>
+  <pp>10</pp>
+  <priority>0</priority>
+</37>
+<38>
+  <accuracy>100</accuracy>
+  <description>A tackle that also
+  hurts the user.</description>
+  <name>Double-Edge</name>
+  <power>120</power>
+  <pp>15</pp>
+  <priority>0</priority>
+</38>
+<39>
+  <accuracy>100</accuracy>
+  <description>Lowers the foe's
+  DEFENSE.</description>
+  <name>Tail Whip</name>
+  <power>None</power>
+  <pp>30</pp>
+  <priority>0</priority>
+</39>
+<40>
+  <accuracy>100</accuracy>
+  <description>An attack that may
+  poison the target.</description>
+  <name>Poison Sting</name>
+  <power>15</power>
+  <pp>35</pp>
+  <priority>0</priority>
+</40>
+<41>
+  <accuracy>100</accuracy>
+  <description>Jabs the foe twice
+  using stingers.</description>
+  <name>Twineedle</name>
+  <power>25</power>
+  <pp>20</pp>
+  <priority>0</priority>
+</41>
+<42>
+  <accuracy>95</accuracy>
+  <description>Fires pins that
+  strike 2-5 times.</description>
+  <name>Pin Missile</name>
+  <power>25</power>
+  <pp>20</pp>
+  <priority>0</priority>
+</42>
+<43>
+  <accuracy>100</accuracy>
+  <description>Reduces the foe's
+  DEFENSE.</description>
+  <name>Leer</name>
+  <power>None</power>
+  <pp>30</pp>
+  <priority>0</priority>
+</43>
+<44>
+  <accuracy>100</accuracy>
+  <description>An attack that may
+  cause flinching.</description>
+  <name>Bite</name>
+  <power>60</power>
+  <pp>25</pp>
+  <priority>0</priority>
+</44>
+<45>
+  <accuracy>100</accuracy>
+  <description>Reduces the foe's
+  ATTACK.</description>
+  <name>Growl</name>
+  <power>None</power>
+  <pp>40</pp>
+  <priority>0</priority>
+</45>
+<46>
+  <accuracy>None</accuracy>
+  <description>Scares wild foes
+  to end battle.</description>
+  <name>Roar</name>
+  <power>None</power>
+  <pp>20</pp>
+  <priority>-6</priority>
+</46>
+<47>
+  <accuracy>55</accuracy>
+  <description>May cause the foe
+  to fall asleep.</description>
+  <name>Sing</name>
+  <power>None</power>
+  <pp>15</pp>
+  <priority>0</priority>
+</47>
+<48>
+  <accuracy>55</accuracy>
+  <description>Sound waves that
+  cause confusion.</description>
+  <name>Supersonic</name>
+  <power>None</power>
+  <pp>20</pp>
+  <priority>0</priority>
+</48>
+<49>
+  <accuracy>90</accuracy>
+  <description>Always inflicts
+  20HP damage.</description>
+  <name>Sonic Boom</name>
+  <power>None</power>
+  <pp>20</pp>
+  <priority>0</priority>
+</49>
+<50>
+  <accuracy>100</accuracy>
+  <description>Disables the foe's
+  most recent move.</description>
+  <name>Disable</name>
+  <power>None</power>
+  <pp>20</pp>
+  <priority>0</priority>
+</50>
+<51>
+  <accuracy>100</accuracy>
+  <description>An attack that may
+  lower DEFENSE.</description>
+  <name>Acid</name>
+  <power>40</power>
+  <pp>30</pp>
+  <priority>0</priority>
+</51>
+<52>
+  <accuracy>100</accuracy>
+  <description>An attack that may
+  inflict a burn.</description>
+  <name>Ember</name>
+  <power>40</power>
+  <pp>25</pp>
+  <priority>0</priority>
+</52>
+<53>
+  <accuracy>100</accuracy>
+  <description>An attack that may
+  inflict a burn.</description>
+  <name>Flamethrower</name>
+  <power>90</power>
+  <pp>15</pp>
+  <priority>0</priority>
+</53>
+<54>
+  <accuracy>None</accuracy>
+  <description>Prevents stat
+  reduction.</description>
+  <name>Mist</name>
+  <power>None</power>
+  <pp>30</pp>
+  <priority>0</priority>
+</54>
+<55>
+  <accuracy>100</accuracy>
+  <description>Squirts water to
+  attack.</description>
+  <name>Water Gun</name>
+  <power>40</power>
+  <pp>25</pp>
+  <priority>0</priority>
+</55>
+<56>
+  <accuracy>80</accuracy>
+  <description>A powerful water-
+  type attack.</description>
+  <name>Hydro Pump</name>
+  <power>110</power>
+  <pp>5</pp>
+  <priority>0</priority>
+</56>
+<57>
+  <accuracy>100</accuracy>
+  <description>A strong water-
+  type attack.</description>
+  <name>Surf</name>
+  <power>90</power>
+  <pp>15</pp>
+  <priority>0</priority>
+</57>
+<58>
+  <accuracy>100</accuracy>
+  <description>向对手发射
+  冰冻光束进行攻击。
+  有时会让对手陷入冰冻状态。</description>
+  <name>Ice Beam</name>
+  <power>90</power>
+  <pp>10</pp>
+  <priority>0</priority>
+</58>
+<59>
+  <accuracy>70</accuracy>
+  <description>An attack that may
+  freeze the foe.</description>
+  <name>Blizzard</name>
+  <power>110</power>
+  <pp>5</pp>
+  <priority>0</priority>
+</59>
+<60>
+  <accuracy>100</accuracy>
+  <description>An attack that may
+  confuse the foe.</description>
+  <name>Psybeam</name>
+  <power>65</power>
+  <pp>20</pp>
+  <priority>0</priority>
+</60>
+<61>
+  <accuracy>100</accuracy>
+  <description>An attack that may
+  lower SPEED.</description>
+  <name>Bubble Beam</name>
+  <power>65</power>
+  <pp>20</pp>
+  <priority>0</priority>
+</61>
+<62>
+  <accuracy>100</accuracy>
+  <description>An attack that may
+  lower ATTACK.</description>
+  <name>Aurora Beam</name>
+  <power>65</power>
+  <pp>20</pp>
+  <priority>0</priority>
+</62>
+<63>
+  <accuracy>90</accuracy>
+  <description>1st turn: Attack
+  2nd turn: Rest</description>
+  <name>Hyper Beam</name>
+  <power>150</power>
+  <pp>5</pp>
+  <priority>0</priority>
+</63>
+<64>
+  <accuracy>100</accuracy>
+  <description>Jabs the foe with
+  a beak, etc.</description>
+  <name>Peck</name>
+  <power>35</power>
+  <pp>35</pp>
+  <priority>0</priority>
+</64>
+<65>
+  <accuracy>100</accuracy>
+  <description>A strong, spin­
+  ning-peck attack.</description>
+  <name>Drill Peck</name>
+  <power>80</power>
+  <pp>20</pp>
+  <priority>0</priority>
+</65>
+<66>
+  <accuracy>80</accuracy>
+  <description>An attack that al­
+  so hurts the user.</description>
+  <name>Submission</name>
+  <power>80</power>
+  <pp>20</pp>
+  <priority>0</priority>
+</66>
+<67>
+  <accuracy>100</accuracy>
+  <description>An attack that may
+  cause flinching.</description>
+  <name>Low Kick</name>
+  <power>None</power>
+  <pp>20</pp>
+  <priority>0</priority>
+</67>
+<68>
+  <accuracy>100</accuracy>
+  <description>Returns a physical
+  blow double.</description>
+  <name>Counter</name>
+  <power>None</power>
+  <pp>20</pp>
+  <priority>-5</priority>
+</68>
+<69>
+  <accuracy>100</accuracy>
+  <description>The user's level
+  equals damage HP.</description>
+  <name>Seismic Toss</name>
+  <power>None</power>
+  <pp>20</pp>
+  <priority>0</priority>
+</69>
+<70>
+  <accuracy>100</accuracy>
+  <description>A powerful physi­
+  cal attack.</description>
+  <name>Strength</name>
+  <power>80</power>
+  <pp>15</pp>
+  <priority>0</priority>
+</70>
+<71>
+  <accuracy>100</accuracy>
+  <description>Steals 1/2 of the
+  damage inflicted.</description>
+  <name>Absorb</name>
+  <power>20</power>
+  <pp>25</pp>
+  <priority>0</priority>
+</71>
+<72>
+  <accuracy>100</accuracy>
+  <description>An attack that absorbs
+  half the damage inflicted.</description>
+  <name>Mega Drain</name>
+  <power>40</power>
+  <pp>15</pp>
+  <priority>0</priority>
+</72>
+<73>
+  <accuracy>90</accuracy>
+  <description>Steals HP from the
+  foe on every turn.</description>
+  <name>Leech Seed</name>
+  <power>None</power>
+  <pp>10</pp>
+  <priority>0</priority>
+</73>
+<74>
+  <accuracy>None</accuracy>
+  <description>Raises the SPCL.
+  ATK rating.</description>
+  <name>Growth</name>
+  <power>None</power>
+  <pp>20</pp>
+  <priority>0</priority>
+</74>
+<75>
+  <accuracy>95</accuracy>
+  <description>Trifft das Ziel mit Blättern. Hohe Volltrefferquote.</description>
+  <name>Razor Leaf</name>
+  <power>55</power>
+  <pp>25</pp>
+  <priority>0</priority>
+</75>
+<76>
+  <accuracy>100</accuracy>
+  <description>1st turn: Prepare
+  2nd turn: Attack</description>
+  <name>Solar Beam</name>
+  <power>120</power>
+  <pp>10</pp>
+  <priority>0</priority>
+</76>
+<77>
+  <accuracy>75</accuracy>
+  <description>A move that may
+  poison the foe.</description>
+  <name>Poison Powder</name>
+  <power>None</power>
+  <pp>35</pp>
+  <priority>0</priority>
+</77>
+<78>
+  <accuracy>75</accuracy>
+  <description>A move that may
+  paralyze the foe.</description>
+  <name>Stun Spore</name>
+  <power>None</power>
+  <pp>30</pp>
+  <priority>0</priority>
+</78>
+<79>
+  <accuracy>75</accuracy>
+  <description>May cause the foe
+  to fall asleep.</description>
+  <name>Sleep Powder</name>
+  <power>None</power>
+  <pp>15</pp>
+  <priority>0</priority>
+</79>
+<80>
+  <accuracy>100</accuracy>
+  <description>Works 2-3 turns
+  and confuses user.</description>
+  <name>Petal Dance</name>
+  <power>120</power>
+  <pp>10</pp>
+  <priority>0</priority>
+</80>
+<81>
+  <accuracy>95</accuracy>
+  <description>A move that lowers
+  the foe's SPEED.</description>
+  <name>String Shot</name>
+  <power>None</power>
+  <pp>40</pp>
+  <priority>0</priority>
+</81>
+<82>
+  <accuracy>100</accuracy>
+  <description>Always inflicts
+  40HP damage.</description>
+  <name>Dragon Rage</name>
+  <power>None</power>
+  <pp>10</pp>
+  <priority>0</priority>
+</82>
+<83>
+  <accuracy>85</accuracy>
+  <description>Un tourbillon de flammes emprisonne l’ennemi
+  pendant quatre à cinq tours.</description>
+  <name>Fire Spin</name>
+  <power>35</power>
+  <pp>15</pp>
+  <priority>0</priority>
+</83>
+<84>
+  <accuracy>100</accuracy>
+  <description>An attack that may
+  cause paralysis.</description>
+  <name>Thunder Shock</name>
+  <power>40</power>
+  <pp>30</pp>
+  <priority>0</priority>
+</84>
+<85>
+  <accuracy>100</accuracy>
+  <description>An attack that may
+  cause paralysis.</description>
+  <name>Thunderbolt</name>
+  <power>90</power>
+  <pp>15</pp>
+  <priority>0</priority>
+</85>
+<86>
+  <accuracy>90</accuracy>
+  <description>A move that may
+  cause paralysis.</description>
+  <name>Thunder Wave</name>
+  <power>None</power>
+  <pp>20</pp>
+  <priority>0</priority>
+</86>
+<87>
+  <accuracy>70</accuracy>
+  <description>An attack that may
+  cause paralysis.</description>
+  <name>Thunder</name>
+  <power>110</power>
+  <pp>10</pp>
+  <priority>0</priority>
+</87>
+<88>
+  <accuracy>90</accuracy>
+  <description>Drops rocks on the
+  enemy.</description>
+  <name>Rock Throw</name>
+  <power>50</power>
+  <pp>15</pp>
+  <priority>0</priority>
+</88>
+<89>
+  <accuracy>100</accuracy>
+  <description>Tough but useless
+  vs. flying foes.</description>
+  <name>Earthquake</name>
+  <power>100</power>
+  <pp>10</pp>
+  <priority>0</priority>
+</89>
+<90>
+  <accuracy>30</accuracy>
+  <description>A ground-type,
+  one-hit KO attack.</description>
+  <name>Fissure</name>
+  <power>None</power>
+  <pp>5</pp>
+  <priority>0</priority>
+</90>
+<91>
+  <accuracy>100</accuracy>
+  <description>Primer turno: cava. Segundo turno: ataca.</description>
+  <name>Dig</name>
+  <power>80</power>
+  <pp>10</pp>
+  <priority>0</priority>
+</91>
+<92>
+  <accuracy>90</accuracy>
+  <description>A poison move with
+  increasing damage.</description>
+  <name>Toxic</name>
+  <power>None</power>
+  <pp>10</pp>
+  <priority>0</priority>
+</92>
+<93>
+  <accuracy>100</accuracy>
+  <description>An attack that may
+  cause confusion.</description>
+  <name>Confusion</name>
+  <power>50</power>
+  <pp>25</pp>
+  <priority>0</priority>
+</93>
+<94>
+  <accuracy>100</accuracy>
+  <description>An attack that may
+  lower SPCL.DEF.</description>
+  <name>Psychic</name>
+  <power>90</power>
+  <pp>10</pp>
+  <priority>0</priority>
+</94>
+<95>
+  <accuracy>60</accuracy>
+  <description>May put the foe to
+  sleep.</description>
+  <name>Hypnosis</name>
+  <power>None</power>
+  <pp>20</pp>
+  <priority>0</priority>
+</95>
+<96>
+  <accuracy>None</accuracy>
+  <description>Raises the user's
+  ATTACK.</description>
+  <name>Meditate</name>
+  <power>None</power>
+  <pp>40</pp>
+  <priority>0</priority>
+</96>
+<97>
+  <accuracy>None</accuracy>
+  <description>Sharply increases
+  the user's SPEED.</description>
+  <name>Agility</name>
+  <power>None</power>
+  <pp>30</pp>
+  <priority>0</priority>
+</97>
+<98>
+  <accuracy>100</accuracy>
+  <description>Lets the user get
+  in the first hit.</description>
+  <name>Quick Attack</name>
+  <power>40</power>
+  <pp>30</pp>
+  <priority>1</priority>
+</98>
+<99>
+  <accuracy>100</accuracy>
+  <description>기술을 썼을 때 공격을
+  받으면 분노의 힘으로
+  공격이 올라간다.</description>
+  <name>Rage</name>
+  <power>20</power>
+  <pp>20</pp>
+  <priority>0</priority>
+</99>
+<100>
+  <accuracy>None</accuracy>
+  <description>A move for fleeing
+  from battle.</description>
+  <name>Teleport</name>
+  <power>None</power>
+  <pp>20</pp>
+  <priority>0</priority>
+</100>
+<101>
+  <accuracy>100</accuracy>
+  <description>The user's level
+  equals damage HP.</description>
+  <name>Night Shade</name>
+  <power>None</power>
+  <pp>15</pp>
+  <priority>0</priority>
+</101>
+<102>
+  <accuracy>None</accuracy>
+  <description>Copies a move used
+  by the foe.</description>
+  <name>Mimic</name>
+  <power>None</power>
+  <pp>10</pp>
+  <priority>0</priority>
+</102>
+<103>
+  <accuracy>85</accuracy>
+  <description>Sharply reduces
+  the foe's DEFENSE.</description>
+  <name>Screech</name>
+  <power>None</power>
+  <pp>40</pp>
+  <priority>0</priority>
+</103>
+<104>
+  <accuracy>None</accuracy>
+  <description>Heightens evasive­
+  ness.</description>
+  <name>Double Team</name>
+  <power>None</power>
+  <pp>15</pp>
+  <priority>0</priority>
+</104>
+<105>
+  <accuracy>None</accuracy>
+  <description>Restores HP by 1/2
+  the max HP.</description>
+  <name>Recover</name>
+  <power>None</power>
+  <pp>10</pp>
+  <priority>0</priority>
+</105>
+<106>
+  <accuracy>None</accuracy>
+  <description>Raises the user's
+  DEFENSE.</description>
+  <name>Harden</name>
+  <power>None</power>
+  <pp>30</pp>
+  <priority>0</priority>
+</106>
+<107>
+  <accuracy>None</accuracy>
+  <description>Heightens evasive­
+  ness.</description>
+  <name>Minimize</name>
+  <power>None</power>
+  <pp>10</pp>
+  <priority>0</priority>
+</107>
+<108>
+  <accuracy>100</accuracy>
+  <description>Lowers the foe's
+  accuracy.</description>
+  <name>Smokescreen</name>
+  <power>None</power>
+  <pp>20</pp>
+  <priority>0</priority>
+</108>
+<109>
+  <accuracy>100</accuracy>
+  <description>A move that causes
+  confusion.</description>
+  <name>Confuse Ray</name>
+  <power>None</power>
+  <pp>10</pp>
+  <priority>0</priority>
+</109>
+<110>
+  <accuracy>None</accuracy>
+  <description>Heightens the
+  user's DEFENSE.</description>
+  <name>Withdraw</name>
+  <power>None</power>
+  <pp>40</pp>
+  <priority>0</priority>
+</110>
+<111>
+  <accuracy>None</accuracy>
+  <description>Heightens the
+  user's DEFENSE.</description>
+  <name>Defense Curl</name>
+  <power>None</power>
+  <pp>40</pp>
+  <priority>0</priority>
+</111>
+<112>
+  <accuracy>None</accuracy>
+  <description>Sharply increases
+  user's DEFENSE.</description>
+  <name>Barrier</name>
+  <power>None</power>
+  <pp>20</pp>
+  <priority>0</priority>
+</112>
+<113>
+  <accuracy>None</accuracy>
+  <description>Ups SPCL.DEF with
+  a wall of light.</description>
+  <name>Light Screen</name>
+  <power>None</power>
+  <pp>30</pp>
+  <priority>0</priority>
+</113>
+<114>
+  <accuracy>None</accuracy>
+  <description>Eliminates all
+  stat changes.</description>
+  <name>Haze</name>
+  <power>None</power>
+  <pp>30</pp>
+  <priority>0</priority>
+</114>
+<115>
+  <accuracy>None</accuracy>
+  <description>Raises DEFENSE
+  with a barrier.</description>
+  <name>Reflect</name>
+  <power>None</power>
+  <pp>20</pp>
+  <priority>0</priority>
+</115>
+<116>
+  <accuracy>None</accuracy>
+  <description>Raises the criti­
+  cal hit ratio.</description>
+  <name>Focus Energy</name>
+  <power>None</power>
+  <pp>30</pp>
+  <priority>0</priority>
+</116>
+<117>
+  <accuracy>None</accuracy>
+  <description>Waits 2-3 turns &amp;
+  hits back double.</description>
+  <name>Bide</name>
+  <power>None</power>
+  <pp>10</pp>
+  <priority>1</priority>
+</117>
+<118>
+  <accuracy>None</accuracy>
+  <description>Randomly uses any
+  POKéMON move.</description>
+  <name>Metronome</name>
+  <power>None</power>
+  <pp>10</pp>
+  <priority>0</priority>
+</118>
+<119>
+  <accuracy>None</accuracy>
+  <description>Counters with the
+  same move.</description>
+  <name>Mirror Move</name>
+  <power>None</power>
+  <pp>20</pp>
+  <priority>0</priority>
+</119>
+<120>
+  <accuracy>100</accuracy>
+  <description>Powerful but makes
+  the user faint.</description>
+  <name>Self-Destruct</name>
+  <power>200</power>
+  <pp>5</pp>
+  <priority>0</priority>
+</120>
+<121>
+  <accuracy>75</accuracy>
+  <description>Colpisce il bersaglio con un grande uovo
+  scaraventato con enorme forza.</description>
+  <name>Egg Bomb</name>
+  <power>100</power>
+  <pp>10</pp>
+  <priority>0</priority>
+</121>
+<122>
+  <accuracy>100</accuracy>
+  <description>An attack that may
+  cause paralysis.</description>
+  <name>Lick</name>
+  <power>30</power>
+  <pp>30</pp>
+  <priority>0</priority>
+</122>
+<123>
+  <accuracy>70</accuracy>
+  <description>An attack that may
+  poison the foe.</description>
+  <name>Smog</name>
+  <power>30</power>
+  <pp>20</pp>
+  <priority>0</priority>
+</123>
+<124>
+  <accuracy>100</accuracy>
+  <description>An attack that may
+  poison the foe.</description>
+  <name>Sludge</name>
+  <power>65</power>
+  <pp>20</pp>
+  <priority>0</priority>
+</124>
+<125>
+  <accuracy>85</accuracy>
+  <description>An attack that may
+  cause flinching.</description>
+  <name>Bone Club</name>
+  <power>65</power>
+  <pp>20</pp>
+  <priority>0</priority>
+</125>
+<126>
+  <accuracy>85</accuracy>
+  <description>An attack that
+  may cause a burn.</description>
+  <name>Fire Blast</name>
+  <power>110</power>
+  <pp>5</pp>
+  <priority>0</priority>
+</126>
+<127>
+  <accuracy>100</accuracy>
+  <description>An aquatic charge
+  attack.</description>
+  <name>Waterfall</name>
+  <power>80</power>
+  <pp>15</pp>
+  <priority>0</priority>
+</127>
+<128>
+  <accuracy>85</accuracy>
+  <description>Traps the foe for
+  2-5 turns.</description>
+  <name>Clamp</name>
+  <power>35</power>
+  <pp>15</pp>
+  <priority>0</priority>
+</128>
+<129>
+  <accuracy>None</accuracy>
+  <description>An attack that
+  never misses.</description>
+  <name>Swift</name>
+  <power>60</power>
+  <pp>20</pp>
+  <priority>0</priority>
+</129>
+<130>
+  <accuracy>100</accuracy>
+  <description>1st turn: Prepare
+  2nd turn: Attack</description>
+  <name>Skull Bash</name>
+  <power>130</power>
+  <pp>10</pp>
+  <priority>0</priority>
+</130>
+<131>
+  <accuracy>100</accuracy>
+  <description>Fires spikes to
+  hit 2-5 times.</description>
+  <name>Spike Cannon</name>
+  <power>20</power>
+  <pp>15</pp>
+  <priority>0</priority>
+</131>
+<132>
+  <accuracy>100</accuracy>
+  <description>An attack that may
+  lower SPEED.</description>
+  <name>Constrict</name>
+  <power>10</power>
+  <pp>35</pp>
+  <priority>0</priority>
+</132>
+<133>
+  <accuracy>None</accuracy>
+  <description>Sharply raises the
+  user's SPCL.DEF.</description>
+  <name>Amnesia</name>
+  <power>None</power>
+  <pp>20</pp>
+  <priority>0</priority>
+</133>
+<134>
+  <accuracy>80</accuracy>
+  <description>Chi la usa distrae il bersaglio piegando
+  un cucchiaio e ne riduce la precisione.</description>
+  <name>Kinesis</name>
+  <power>None</power>
+  <pp>15</pp>
+  <priority>0</priority>
+</134>
+<135>
+  <accuracy>None</accuracy>
+  <description>Restores HP by 1/2
+  the user's max HP.</description>
+  <name>Soft-Boiled</name>
+  <power>None</power>
+  <pp>10</pp>
+  <priority>0</priority>
+</135>
+<136>
+  <accuracy>90</accuracy>
+  <description>A jumping knee kick. If it
+  misses, the user is hurt.</description>
+  <name>High Jump Kick</name>
+  <power>130</power>
+  <pp>10</pp>
+  <priority>0</priority>
+</136>
+<137>
+  <accuracy>100</accuracy>
+  <description>A move that may
+  cause paralysis.</description>
+  <name>Glare</name>
+  <power>None</power>
+  <pp>30</pp>
+  <priority>0</priority>
+</137>
+<138>
+  <accuracy>100</accuracy>
+  <description>Steals HP from a
+  sleeping victim.</description>
+  <name>Dream Eater</name>
+  <power>100</power>
+  <pp>15</pp>
+  <priority>0</priority>
+</138>
+<139>
+  <accuracy>90</accuracy>
+  <description>Spruzza in faccia ai nemici che ha intorno
+  una nuvola di gas tossico che avvelena.</description>
+  <name>Poison Gas</name>
+  <power>None</power>
+  <pp>40</pp>
+  <priority>0</priority>
+</139>
+<140>
+  <accuracy>85</accuracy>
+  <description>Throws orbs to hit
+  2-5 times.</description>
+  <name>Barrage</name>
+  <power>15</power>
+  <pp>20</pp>
+  <priority>0</priority>
+</140>
+<141>
+  <accuracy>100</accuracy>
+  <description>Steals 1/2 of the
+  damage inflicted.</description>
+  <name>Leech Life</name>
+  <power>80</power>
+  <pp>10</pp>
+  <priority>0</priority>
+</141>
+<142>
+  <accuracy>75</accuracy>
+  <description>May cause the foe
+  to fall asleep.</description>
+  <name>Lovely Kiss</name>
+  <power>None</power>
+  <pp>10</pp>
+  <priority>0</priority>
+</142>
+<143>
+  <accuracy>90</accuracy>
+  <description>1st turn: Prepare
+  2nd turn: Attack</description>
+  <name>Sky Attack</name>
+  <power>140</power>
+  <pp>5</pp>
+  <priority>0</priority>
+</143>
+<144>
+  <accuracy>None</accuracy>
+  <description>The user assumes
+  the foe's guise.</description>
+  <name>Transform</name>
+  <power>None</power>
+  <pp>10</pp>
+  <priority>0</priority>
+</144>
+<145>
+  <accuracy>100</accuracy>
+  <description>An attack that may
+  reduce SPEED.</description>
+  <name>Bubble</name>
+  <power>40</power>
+  <pp>30</pp>
+  <priority>0</priority>
+</145>
+<146>
+  <accuracy>100</accuracy>
+  <description>An attack that may
+  cause confusion.</description>
+  <name>Dizzy Punch</name>
+  <power>70</power>
+  <pp>10</pp>
+  <priority>0</priority>
+</146>
+<147>
+  <accuracy>100</accuracy>
+  <description>A move that
+  induces sleep.</description>
+  <name>Spore</name>
+  <power>None</power>
+  <pp>15</pp>
+  <priority>0</priority>
+</147>
+<148>
+  <accuracy>100</accuracy>
+  <description>Blinds the foe to
+  reduce accuracy.</description>
+  <name>Flash</name>
+  <power>None</power>
+  <pp>20</pp>
+  <priority>0</priority>
+</148>
+<149>
+  <accuracy>100</accuracy>
+  <description>An attack with
+  variable power.</description>
+  <name>Psywave</name>
+  <power>None</power>
+  <pp>15</pp>
+  <priority>0</priority>
+</149>
+<150>
+  <accuracy>None</accuracy>
+  <description>Nur ein Platscher, der überhaupt nichts bewirkt.</description>
+  <name>Splash</name>
+  <power>None</power>
+  <pp>40</pp>
+  <priority>0</priority>
+</150>
+<151>
+  <accuracy>None</accuracy>
+  <description>Sharply raises the
+  user's DEFENSE.</description>
+  <name>Acid Armor</name>
+  <power>None</power>
+  <pp>20</pp>
+  <priority>0</priority>
+</151>
+<152>
+  <accuracy>90</accuracy>
+  <description>Has a high criti­
+  cal hit ratio.</description>
+  <name>Crabhammer</name>
+  <power>100</power>
+  <pp>10</pp>
+  <priority>0</priority>
+</152>
+<153>
+  <accuracy>100</accuracy>
+  <description>Very powerful but
+  makes user faint.</description>
+  <name>Explosion</name>
+  <power>250</power>
+  <pp>5</pp>
+  <priority>0</priority>
+</153>
+<154>
+  <accuracy>80</accuracy>
+  <description>Quickly scratches
+  2-5 times.</description>
+  <name>Fury Swipes</name>
+  <power>18</power>
+  <pp>15</pp>
+  <priority>0</priority>
+</154>
+<155>
+  <accuracy>90</accuracy>
+  <description>Ein Bumerang aus Knochen, der zweimal trifft.</description>
+  <name>Bonemerang</name>
+  <power>50</power>
+  <pp>10</pp>
+  <priority>0</priority>
+</155>
+<156>
+  <accuracy>None</accuracy>
+  <description>Sleep for 2 turns
+  to fully recover.</description>
+  <name>Rest</name>
+  <power>None</power>
+  <pp>10</pp>
+  <priority>0</priority>
+</156>
+<157>
+  <accuracy>90</accuracy>
+  <description>An attack that may
+  cause flinching.</description>
+  <name>Rock Slide</name>
+  <power>75</power>
+  <pp>10</pp>
+  <priority>0</priority>
+</157>
+<158>
+  <accuracy>90</accuracy>
+  <description>An attack that may
+  cause flinching.</description>
+  <name>Hyper Fang</name>
+  <power>80</power>
+  <pp>15</pp>
+  <priority>0</priority>
+</158>
+<159>
+  <accuracy>None</accuracy>
+  <description>A move that raises
+  the user's ATTACK.</description>
+  <name>Sharpen</name>
+  <power>None</power>
+  <pp>30</pp>
+  <priority>0</priority>
+</159>
+<160>
+  <accuracy>None</accuracy>
+  <description>Change user's type
+  to a move's type.</description>
+  <name>Conversion</name>
+  <power>None</power>
+  <pp>30</pp>
+  <priority>0</priority>
+</160>
+<161>
+  <accuracy>100</accuracy>
+  <description>Fires three kinds
+  of beams at once.</description>
+  <name>Tri Attack</name>
+  <power>80</power>
+  <pp>10</pp>
+  <priority>0</priority>
+</161>
+<162>
+  <accuracy>90</accuracy>
+  <description>Cuts the foe's HP
+  by 1/2.</description>
+  <name>Super Fang</name>
+  <power>None</power>
+  <pp>10</pp>
+  <priority>0</priority>
+</162>
+<163>
+  <accuracy>100</accuracy>
+  <description>Has a high criti­
+  cal hit ratio.</description>
+  <name>Slash</name>
+  <power>70</power>
+  <pp>20</pp>
+  <priority>0</priority>
+</163>
+<164>
+  <accuracy>None</accuracy>
+  <description>Makes a decoy with
+  1/4 user's max HP.</description>
+  <name>Substitute</name>
+  <power>None</power>
+  <pp>10</pp>
+  <priority>0</priority>
+</164>
+<165>
+  <accuracy>None</accuracy>
+  <description>Used only if all
+  PP are exhausted.</description>
+  <name>Struggle</name>
+  <power>50</power>
+  <pp>1</pp>
+  <priority>0</priority>
+</165>
