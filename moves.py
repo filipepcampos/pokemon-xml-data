@@ -10,9 +10,9 @@ def parseSingleMove(data):
     moveId = int(data["id"])
 
     dataDict = {}
-    dataDict["accuracy"] = data["accuracy"]
-    dataDict["power"] = data["power"]
-    dataDict["pp"] = data["pp"]
+    dataDict["accuracy"] = data["accuracy"] if data["accuracy"] != "null" else 0
+    dataDict["power"] = data["power"] if data["power"] != "null" else 0
+    dataDict["pp"] = data["pp"] if data["pp"] != "null" else 0
 
     # TODO: This is stupid, there's no text for versions below gold-silver
     ver = VERSION if VERSION not in ['red-blue', 'yellow'] else 'gold-silver'
@@ -30,7 +30,7 @@ def parseMoves(data):
     dataDict = {}
     for moveData in data:
         i, j = parseSingleMove(moveData)
-        dataDict[i] = j
+        dataDict["_" + str(i)] = j
         if(N % 10 == 0):
             print(f"  {N}/{totalN}")
         N += 1

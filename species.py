@@ -20,7 +20,7 @@ def parseMoves(data):
         if(versionGroup["move_learn_method"]["name"] == "level-up"):
             levelLearnt = versionGroup["level_learned_at"]
             moveId = moveData["move"]["url"].split("/")[-2]
-            dataDict[levelLearnt] = moveId
+            dataDict["_" + str(levelLearnt)] = moveId
     return dataDict
 
 def parseSingleSpecies(data):
@@ -46,7 +46,7 @@ def parseSpecies(data):
     dataDict = {}
     for speciesData in data:
         i, j = parseSingleSpecies(speciesData)
-        dataDict[i] = j
+        dataDict["_"+str(i)] = j
         if(N % 10 == 0):
             print(f"  {N}/{totalN}")
         N += 1
