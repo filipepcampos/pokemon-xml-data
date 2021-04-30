@@ -16,11 +16,11 @@
     <pp>35</pp>
   </_10>
   <_100>
-    <accuracy>None</accuracy>
+    <accuracy>0</accuracy>
     <description>A move for fleeing
     from battle.</description>
     <name>Teleport</name>
-    <power>None</power>
+    <power>0</power>
     <pp>20</pp>
   </_100>
   <_101>
@@ -28,15 +28,15 @@
     <description>The user's level
     equals damage HP.</description>
     <name>Night Shade</name>
-    <power>None</power>
+    <power>0</power>
     <pp>15</pp>
   </_101>
   <_102>
-    <accuracy>None</accuracy>
+    <accuracy>0</accuracy>
     <description>Copies a move used
     by the foe.</description>
     <name>Mimic</name>
-    <power>None</power>
+    <power>0</power>
     <pp>10</pp>
   </_102>
   <_103>
@@ -44,39 +44,39 @@
     <description>Sharply reduces
     the foe's DEFENSE.</description>
     <name>Screech</name>
-    <power>None</power>
+    <power>0</power>
     <pp>40</pp>
   </_103>
   <_104>
-    <accuracy>None</accuracy>
+    <accuracy>0</accuracy>
     <description>Heightens evasive­
     ness.</description>
     <name>Double Team</name>
-    <power>None</power>
+    <power>0</power>
     <pp>15</pp>
   </_104>
   <_105>
-    <accuracy>None</accuracy>
+    <accuracy>0</accuracy>
     <description>Restores HP by 1/2
     the max HP.</description>
     <name>Recover</name>
-    <power>None</power>
+    <power>0</power>
     <pp>10</pp>
   </_105>
   <_106>
-    <accuracy>None</accuracy>
+    <accuracy>0</accuracy>
     <description>Raises the user's
     DEFENSE.</description>
     <name>Harden</name>
-    <power>None</power>
+    <power>0</power>
     <pp>30</pp>
   </_106>
   <_107>
-    <accuracy>None</accuracy>
+    <accuracy>0</accuracy>
     <description>Heightens evasive­
     ness.</description>
     <name>Minimize</name>
-    <power>None</power>
+    <power>0</power>
     <pp>10</pp>
   </_107>
   <_108>
@@ -84,7 +84,7 @@
     <description>Lowers the foe's
     accuracy.</description>
     <name>Smokescreen</name>
-    <power>None</power>
+    <power>0</power>
     <pp>20</pp>
   </_108>
   <_109>
@@ -92,7 +92,7 @@
     <description>A move that causes
     confusion.</description>
     <name>Confuse Ray</name>
-    <power>None</power>
+    <power>0</power>
     <pp>10</pp>
   </_109>
   <_11>
@@ -104,83 +104,83 @@
     <pp>30</pp>
   </_11>
   <_110>
-    <accuracy>None</accuracy>
+    <accuracy>0</accuracy>
     <description>Heightens the
     user's DEFENSE.</description>
     <name>Withdraw</name>
-    <power>None</power>
+    <power>0</power>
     <pp>40</pp>
   </_110>
   <_111>
-    <accuracy>None</accuracy>
+    <accuracy>0</accuracy>
     <description>Heightens the
     user's DEFENSE.</description>
     <name>Defense Curl</name>
-    <power>None</power>
+    <power>0</power>
     <pp>40</pp>
   </_111>
   <_112>
-    <accuracy>None</accuracy>
+    <accuracy>0</accuracy>
     <description>Sharply increases
     user's DEFENSE.</description>
     <name>Barrier</name>
-    <power>None</power>
+    <power>0</power>
     <pp>20</pp>
   </_112>
   <_113>
-    <accuracy>None</accuracy>
+    <accuracy>0</accuracy>
     <description>Ups SPCL.DEF with
     a wall of light.</description>
     <name>Light Screen</name>
-    <power>None</power>
+    <power>0</power>
     <pp>30</pp>
   </_113>
   <_114>
-    <accuracy>None</accuracy>
+    <accuracy>0</accuracy>
     <description>Eliminates all
     stat changes.</description>
     <name>Haze</name>
-    <power>None</power>
+    <power>0</power>
     <pp>30</pp>
   </_114>
   <_115>
-    <accuracy>None</accuracy>
+    <accuracy>0</accuracy>
     <description>Raises DEFENSE
     with a barrier.</description>
     <name>Reflect</name>
-    <power>None</power>
+    <power>0</power>
     <pp>20</pp>
   </_115>
   <_116>
-    <accuracy>None</accuracy>
+    <accuracy>0</accuracy>
     <description>Raises the criti­
     cal hit ratio.</description>
     <name>Focus Energy</name>
-    <power>None</power>
+    <power>0</power>
     <pp>30</pp>
   </_116>
   <_117>
-    <accuracy>None</accuracy>
+    <accuracy>0</accuracy>
     <description>Waits 2-3 turns &amp;
     hits back double.</description>
     <name>Bide</name>
-    <power>None</power>
+    <power>0</power>
     <pp>10</pp>
   </_117>
   <_118>
-    <accuracy>None</accuracy>
+    <accuracy>0</accuracy>
     <description>Randomly uses any
     POKéMON move.</description>
     <name>Metronome</name>
-    <power>None</power>
+    <power>0</power>
     <pp>10</pp>
   </_118>
   <_119>
-    <accuracy>None</accuracy>
+    <accuracy>0</accuracy>
     <description>Counters with the
     same move.</description>
     <name>Mirror Move</name>
-    <power>None</power>
+    <power>0</power>
     <pp>20</pp>
   </_119>
   <_12>
@@ -188,7 +188,7 @@
     <description>A one-hit KO,
     pincer attack.</description>
     <name>Guillotine</name>
-    <power>None</power>
+    <power>0</power>
     <pp>5</pp>
   </_12>
   <_120>
@@ -264,7 +264,7 @@
     <pp>15</pp>
   </_128>
   <_129>
-    <accuracy>None</accuracy>
+    <accuracy>0</accuracy>
     <description>An attack that
     never misses.</description>
     <name>Swift</name>
@@ -304,11 +304,11 @@
     <pp>35</pp>
   </_132>
   <_133>
-    <accuracy>None</accuracy>
+    <accuracy>0</accuracy>
     <description>Sharply raises the
     user's SPCL.DEF.</description>
     <name>Amnesia</name>
-    <power>None</power>
+    <power>0</power>
     <pp>20</pp>
   </_133>
   <_134>
@@ -316,15 +316,15 @@
     <description>Reduces the foe's
     accuracy.</description>
     <name>Kinesis</name>
-    <power>None</power>
+    <power>0</power>
     <pp>15</pp>
   </_134>
   <_135>
-    <accuracy>None</accuracy>
+    <accuracy>0</accuracy>
     <description>Restores HP by 1/2
     the user's max HP.</description>
     <name>Soft-Boiled</name>
-    <power>None</power>
+    <power>0</power>
     <pp>10</pp>
   </_135>
   <_136>
@@ -340,7 +340,7 @@
     <description>A move that may
     cause paralysis.</description>
     <name>Glare</name>
-    <power>None</power>
+    <power>0</power>
     <pp>30</pp>
   </_137>
   <_138>
@@ -356,15 +356,15 @@
     <description>A move that may
     poison the foe.</description>
     <name>Poison Gas</name>
-    <power>None</power>
+    <power>0</power>
     <pp>40</pp>
   </_139>
   <_14>
-    <accuracy>None</accuracy>
+    <accuracy>0</accuracy>
     <description>A dance that in­
     creases ATTACK.</description>
     <name>Swords Dance</name>
-    <power>None</power>
+    <power>0</power>
     <pp>20</pp>
   </_14>
   <_140>
@@ -388,7 +388,7 @@
     <description>May cause the foe
     to fall asleep.</description>
     <name>Lovely Kiss</name>
-    <power>None</power>
+    <power>0</power>
     <pp>10</pp>
   </_142>
   <_143>
@@ -400,11 +400,11 @@
     <pp>5</pp>
   </_143>
   <_144>
-    <accuracy>None</accuracy>
+    <accuracy>0</accuracy>
     <description>The user assumes
     the foe's guise.</description>
     <name>Transform</name>
-    <power>None</power>
+    <power>0</power>
     <pp>10</pp>
   </_144>
   <_145>
@@ -428,7 +428,7 @@
     <description>A move that
     induces sleep.</description>
     <name>Spore</name>
-    <power>None</power>
+    <power>0</power>
     <pp>15</pp>
   </_147>
   <_148>
@@ -436,7 +436,7 @@
     <description>Blinds the foe to
     reduce accuracy.</description>
     <name>Flash</name>
-    <power>None</power>
+    <power>0</power>
     <pp>20</pp>
   </_148>
   <_149>
@@ -444,7 +444,7 @@
     <description>An attack with
     variable power.</description>
     <name>Psywave</name>
-    <power>None</power>
+    <power>0</power>
     <pp>15</pp>
   </_149>
   <_15>
@@ -456,19 +456,19 @@
     <pp>30</pp>
   </_15>
   <_150>
-    <accuracy>None</accuracy>
+    <accuracy>0</accuracy>
     <description>Has no effect
     whatsoever.</description>
     <name>Splash</name>
-    <power>None</power>
+    <power>0</power>
     <pp>40</pp>
   </_150>
   <_151>
-    <accuracy>None</accuracy>
+    <accuracy>0</accuracy>
     <description>Sharply raises the
     user's DEFENSE.</description>
     <name>Acid Armor</name>
-    <power>None</power>
+    <power>0</power>
     <pp>20</pp>
   </_151>
   <_152>
@@ -504,11 +504,11 @@
     <pp>10</pp>
   </_155>
   <_156>
-    <accuracy>None</accuracy>
+    <accuracy>0</accuracy>
     <description>Sleep for 2 turns
     to fully recover.</description>
     <name>Rest</name>
-    <power>None</power>
+    <power>0</power>
     <pp>10</pp>
   </_156>
   <_157>
@@ -528,11 +528,11 @@
     <pp>15</pp>
   </_158>
   <_159>
-    <accuracy>None</accuracy>
+    <accuracy>0</accuracy>
     <description>A move that raises
     the user's ATTACK.</description>
     <name>Sharpen</name>
-    <power>None</power>
+    <power>0</power>
     <pp>30</pp>
   </_159>
   <_16>
@@ -544,11 +544,11 @@
     <pp>35</pp>
   </_16>
   <_160>
-    <accuracy>None</accuracy>
+    <accuracy>0</accuracy>
     <description>Change user's type
     to a move's type.</description>
     <name>Conversion</name>
-    <power>None</power>
+    <power>0</power>
     <pp>30</pp>
   </_160>
   <_161>
@@ -564,7 +564,7 @@
     <description>Cuts the foe's HP
     by 1/2.</description>
     <name>Super Fang</name>
-    <power>None</power>
+    <power>0</power>
     <pp>10</pp>
   </_162>
   <_163>
@@ -576,15 +576,15 @@
     <pp>20</pp>
   </_163>
   <_164>
-    <accuracy>None</accuracy>
+    <accuracy>0</accuracy>
     <description>Makes a decoy with
     1/4 user's max HP.</description>
     <name>Substitute</name>
-    <power>None</power>
+    <power>0</power>
     <pp>10</pp>
   </_164>
   <_165>
-    <accuracy>None</accuracy>
+    <accuracy>0</accuracy>
     <description>Used only if all
     PP are exhausted.</description>
     <name>Struggle</name>
@@ -600,11 +600,11 @@
     <pp>35</pp>
   </_17>
   <_18>
-    <accuracy>None</accuracy>
+    <accuracy>0</accuracy>
     <description>Blows away the foe
     &amp; ends battle.</description>
     <name>Whirlwind</name>
-    <power>None</power>
+    <power>0</power>
     <pp>20</pp>
   </_18>
   <_19>
@@ -692,7 +692,7 @@
     <description>Reduces accuracy
     by throwing sand.</description>
     <name>Sand Attack</name>
-    <power>None</power>
+    <power>0</power>
     <pp>15</pp>
   </_28>
   <_29>
@@ -732,7 +732,7 @@
     <description>A one-hit KO,
     drill attack.</description>
     <name>Horn Drill</name>
-    <power>None</power>
+    <power>0</power>
     <pp>5</pp>
   </_32>
   <_33>
@@ -788,7 +788,7 @@
     <description>Lowers the foe's
     DEFENSE.</description>
     <name>Tail Whip</name>
-    <power>None</power>
+    <power>0</power>
     <pp>30</pp>
   </_39>
   <_4>
@@ -828,7 +828,7 @@
     <description>Reduces the foe's
     DEFENSE.</description>
     <name>Leer</name>
-    <power>None</power>
+    <power>0</power>
     <pp>30</pp>
   </_43>
   <_44>
@@ -844,15 +844,15 @@
     <description>Reduces the foe's
     ATTACK.</description>
     <name>Growl</name>
-    <power>None</power>
+    <power>0</power>
     <pp>40</pp>
   </_45>
   <_46>
-    <accuracy>None</accuracy>
+    <accuracy>0</accuracy>
     <description>Scares wild foes
     to end battle.</description>
     <name>Roar</name>
-    <power>None</power>
+    <power>0</power>
     <pp>20</pp>
   </_46>
   <_47>
@@ -860,7 +860,7 @@
     <description>May cause the foe
     to fall asleep.</description>
     <name>Sing</name>
-    <power>None</power>
+    <power>0</power>
     <pp>15</pp>
   </_47>
   <_48>
@@ -868,7 +868,7 @@
     <description>Sound waves that
     cause confusion.</description>
     <name>Supersonic</name>
-    <power>None</power>
+    <power>0</power>
     <pp>20</pp>
   </_48>
   <_49>
@@ -876,7 +876,7 @@
     <description>Always inflicts
     20HP damage.</description>
     <name>Sonic Boom</name>
-    <power>None</power>
+    <power>0</power>
     <pp>20</pp>
   </_49>
   <_5>
@@ -892,7 +892,7 @@
     <description>Disables the foe's
     most recent move.</description>
     <name>Disable</name>
-    <power>None</power>
+    <power>0</power>
     <pp>20</pp>
   </_50>
   <_51>
@@ -920,11 +920,11 @@
     <pp>15</pp>
   </_53>
   <_54>
-    <accuracy>None</accuracy>
+    <accuracy>0</accuracy>
     <description>Prevents stat
     reduction.</description>
     <name>Mist</name>
-    <power>None</power>
+    <power>0</power>
     <pp>30</pp>
   </_54>
   <_55>
@@ -1036,7 +1036,7 @@
     <description>An attack that may
     cause flinching.</description>
     <name>Low Kick</name>
-    <power>None</power>
+    <power>0</power>
     <pp>20</pp>
   </_67>
   <_68>
@@ -1044,7 +1044,7 @@
     <description>Returns a physical
     blow double.</description>
     <name>Counter</name>
-    <power>None</power>
+    <power>0</power>
     <pp>20</pp>
   </_68>
   <_69>
@@ -1052,7 +1052,7 @@
     <description>The user's level
     equals damage HP.</description>
     <name>Seismic Toss</name>
-    <power>None</power>
+    <power>0</power>
     <pp>20</pp>
   </_69>
   <_7>
@@ -1092,15 +1092,15 @@
     <description>Steals HP from the
     foe on every turn.</description>
     <name>Leech Seed</name>
-    <power>None</power>
+    <power>0</power>
     <pp>10</pp>
   </_73>
   <_74>
-    <accuracy>None</accuracy>
+    <accuracy>0</accuracy>
     <description>Raises the SPCL.
     ATK rating.</description>
     <name>Growth</name>
-    <power>None</power>
+    <power>0</power>
     <pp>20</pp>
   </_74>
   <_75>
@@ -1124,7 +1124,7 @@
     <description>A move that may
     poison the foe.</description>
     <name>Poison Powder</name>
-    <power>None</power>
+    <power>0</power>
     <pp>35</pp>
   </_77>
   <_78>
@@ -1132,7 +1132,7 @@
     <description>A move that may
     paralyze the foe.</description>
     <name>Stun Spore</name>
-    <power>None</power>
+    <power>0</power>
     <pp>30</pp>
   </_78>
   <_79>
@@ -1140,7 +1140,7 @@
     <description>May cause the foe
     to fall asleep.</description>
     <name>Sleep Powder</name>
-    <power>None</power>
+    <power>0</power>
     <pp>15</pp>
   </_79>
   <_8>
@@ -1164,7 +1164,7 @@
     <description>A move that lowers
     the foe's SPEED.</description>
     <name>String Shot</name>
-    <power>None</power>
+    <power>0</power>
     <pp>40</pp>
   </_81>
   <_82>
@@ -1172,7 +1172,7 @@
     <description>Always inflicts
     40HP damage.</description>
     <name>Dragon Rage</name>
-    <power>None</power>
+    <power>0</power>
     <pp>10</pp>
   </_82>
   <_83>
@@ -1204,7 +1204,7 @@
     <description>A move that may
     cause paralysis.</description>
     <name>Thunder Wave</name>
-    <power>None</power>
+    <power>0</power>
     <pp>20</pp>
   </_86>
   <_87>
@@ -1244,7 +1244,7 @@
     <description>A ground-type,
     one-hit KO attack.</description>
     <name>Fissure</name>
-    <power>None</power>
+    <power>0</power>
     <pp>5</pp>
   </_90>
   <_91>
@@ -1260,7 +1260,7 @@
     <description>A poison move with
     increasing damage.</description>
     <name>Toxic</name>
-    <power>None</power>
+    <power>0</power>
     <pp>10</pp>
   </_92>
   <_93>
@@ -1284,23 +1284,23 @@
     <description>May put the foe to
     sleep.</description>
     <name>Hypnosis</name>
-    <power>None</power>
+    <power>0</power>
     <pp>20</pp>
   </_95>
   <_96>
-    <accuracy>None</accuracy>
+    <accuracy>0</accuracy>
     <description>Raises the user's
     ATTACK.</description>
     <name>Meditate</name>
-    <power>None</power>
+    <power>0</power>
     <pp>40</pp>
   </_96>
   <_97>
-    <accuracy>None</accuracy>
+    <accuracy>0</accuracy>
     <description>Sharply increases
     the user's SPEED.</description>
     <name>Agility</name>
-    <power>None</power>
+    <power>0</power>
     <pp>30</pp>
   </_97>
   <_98>
