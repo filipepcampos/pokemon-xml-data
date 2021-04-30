@@ -36,6 +36,8 @@ def parseMoves(data):
         N += 1
 
     print("Writing Moves to XML")
-    xml = dict2xml(dataDict)
+    outDict = {}
+    outDict["moves"] = dataDict
+    xml = dict2xml(outDict)
     with open("moves.xml", "w+") as file:
         file.write(xml)

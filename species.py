@@ -52,6 +52,8 @@ def parseSpecies(data):
         N += 1
         
     print("Writing species to XML")
-    xml = dict2xml(dataDict)
+    outDict = {}
+    outDict["species"] = dataDict
+    xml = dict2xml(outDict)
     with open("species.xml", "w+") as file:
         file.write(xml)
