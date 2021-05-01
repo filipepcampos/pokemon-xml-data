@@ -20,7 +20,7 @@ def parseMoves(data):
         if(versionGroup["move_learn_method"]["name"] == "level-up"):
             levelLearnt = versionGroup["level_learned_at"]
             moveId = moveData["move"]["url"].split("/")[-2]
-            dataDict["_" + str(levelLearnt)] = moveId
+            dataDict["_" + str(moveId)] = levelLearnt
     return dataDict
 
 def parseSingleSpecies(data):
